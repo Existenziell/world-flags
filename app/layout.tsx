@@ -20,17 +20,33 @@ export const metadata: Metadata = {
   icons: {
     icon: [
       {
-        url: "/icons/favicon/favicon-light.svg",
+        url: "/icons/favicon/favicon.svg",
         type: "image/svg+xml",
+      },
+      {
+        url: "/icons/favicon/favicon-16x16.png",
+        sizes: "16x16",
+        type: "image/png",
         media: "(prefers-color-scheme: light)",
       },
       {
-        url: "/icons/favicon/favicon-dark.svg",
-        type: "image/svg+xml",
+        url: "/icons/favicon/favicon-32x32.png",
+        sizes: "32x32",
+        type: "image/png",
+        media: "(prefers-color-scheme: light)",
+      },
+      {
+        url: "/icons/favicon/favicon-16x16-dark.png",
+        sizes: "16x16",
+        type: "image/png",
         media: "(prefers-color-scheme: dark)",
       },
-      { url: "/icons/favicon/favicon-16x16.png", sizes: "16x16", type: "image/png" },
-      { url: "/icons/favicon/favicon-32x32.png", sizes: "32x32", type: "image/png" },
+      {
+        url: "/icons/favicon/favicon-32x32-dark.png",
+        sizes: "32x32",
+        type: "image/png",
+        media: "(prefers-color-scheme: dark)",
+      },
       { url: "/icons/favicon/favicon.ico" },
     ],
     apple: [{ url: "/icons/favicon/apple-touch-icon.png", sizes: "180x180", type: "image/png" }],
