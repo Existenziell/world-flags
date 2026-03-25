@@ -1,16 +1,11 @@
 # World Flags
 
-Fullscreen Next.js + TypeScript app that renders a world map with Mapbox, shows country overlays on click, and serves local flag files.
+**World Flags** is a geography app in the browser: a fullscreen [Mapbox](https://www.mapbox.com/) world map where you can explore freely or play flag-and-country challenges. Click any country to see its name, ISO codes, population, region, capital, area, and local flag. In challenge mode, either find the country for a given flag or the flag for a given country, with configurable rounds, scoring, and a short history of recent runs. Built with **Next.js** and **React**; country data and flag assets ship with the repo.
 
 ## Features
 
 - Fullscreen interactive world map with country click selection.
 - Country overlay with name, ISO codes, population, region, capital, area, and local flag.
-- Top-right settings panel:
-  - Projection: `globe` / `mercator`
-  - Map style: `dark` / `streets` / `satellite`
-  - Theme: `dark` / `light`
-- Settings persist in `localStorage`.
 - Country data and flag assets ship with the repo (`src/data/countries.json`, `public/flags`).
 - Linting and Vitest tests included.
 
