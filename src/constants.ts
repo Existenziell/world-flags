@@ -48,6 +48,11 @@ export const DEFAULT_MAP_SETTINGS: MapSettings = {
 
 export const SETTINGS_STORAGE_KEY = "world-flags-settings";
 export const LEGACY_SETTINGS_STORAGE_KEYS = ["mapSettings", "world-flags-theme"] as const;
+export const CHALLENGE_HISTORY_STORAGE_KEY = "world-flags-challenge-history";
+export const CHALLENGE_SETUP_STORAGE_KEY = "world-flags-challenge-setup";
+export const CHALLENGE_HISTORY_MAX_ENTRIES = 100;
+export const CHALLENGE_ROUND_COUNT_OPTIONS = [1, 3, 5, 10, 20, 50, 100, "all"] as const;
+export const CHALLENGE_FLAG_PICKER_SIZE = 15;
 
 export const COUNTRY_SOURCE_ID = "world-countries";
 export const COUNTRY_FILL_LAYER = "world-countries-fill";

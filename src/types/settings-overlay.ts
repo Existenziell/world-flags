@@ -4,4 +4,5 @@ export type SettingsOverlayProps = {
   settings: MapSettings;
   onChange: (next: MapSettings) => void;
   onClose: () => void;
+  hideMapStyle?: boolean;
 };

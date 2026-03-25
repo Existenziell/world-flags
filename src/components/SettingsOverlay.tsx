@@ -4,7 +4,7 @@ import type { MapStyleOption, MapProjection, ThemeOption } from "@/src/types/map
 import { MAP_STYLE_OPTIONS, PROJECTION_OPTIONS, THEME_OPTIONS } from "@/src/constants";
 import type { SettingsOverlayProps } from "@/src/types/settings-overlay";
 
-export function SettingsOverlay({ settings, onChange, onClose }: SettingsOverlayProps) {
+export function SettingsOverlay({ settings, onChange, onClose, hideMapStyle = false }: SettingsOverlayProps) {
   return (
     <aside className="absolute right-4 top-16 z-50 max-h-[calc(100vh-5rem)] w-80 overflow-y-auto rounded-xl border border-black/10 bg-white/95 p-4 text-zinc-900 shadow-2xl backdrop-blur dark:border-white/15 dark:bg-zinc-900/95 dark:text-zinc-100">
       <div className="mb-4 flex items-center justify-between">
@@ -34,20 +34,24 @@ export function SettingsOverlay({ settings, onChange, onClose }: SettingsOverlay
         ))}
       </select>
 
-      <label className="mb-1 block text-sm font-medium">Map style</label>
-      <select
-        value={settings.mapStyle}
-        onChange={(event) =>
-          onChange({ ...settings, mapStyle: event.target.value as MapStyleOption })
-        }
-        className="mb-3 w-full rounded border border-zinc-300 bg-white px-2 py-1.5 text-sm dark:border-zinc-700 dark:bg-zinc-800"
-      >
-        {MAP_STYLE_OPTIONS.map((option) => (
-          <option key={option} value={option}>
-            {option}
-          </option>
-        ))}
-      </select>
+      {!hideMapStyle ? (
+        <>
+          <label className="mb-1 block text-sm font-medium">Map style</label>
+          <select
+            value={settings.mapStyle}
+            onChange={(event) =>
+              onChange({ ...settings, mapStyle: event.target.value as MapStyleOption })
+            }
+            className="mb-3 w-full rounded border border-zinc-300 bg-white px-2 py-1.5 text-sm dark:border-zinc-700 dark:bg-zinc-800"
+          >
+            {MAP_STYLE_OPTIONS.map((option) => (
+              <option key={option} value={option}>
+                {option}
+              </option>
+            ))}
+          </select>
+        </>
+      ) : null}
 
       <label className="mb-1 block text-sm font-medium">Theme</label>
       <div className="grid grid-cols-2 gap-2">

@@ -4,10 +4,13 @@ import { CountryOverlay } from "@/src/components/CountryOverlay";
 import type { Country } from "@/src/types/country";
 
 vi.mock("next/image", () => ({
-  // eslint-disable-next-line @next/next/no-img-element, jsx-a11y/alt-text
-  default: ({ priority: _priority, ...props }: ImgHTMLAttributes<HTMLImageElement> & { priority?: boolean }) => (
-    <img {...props} />
-  ),
+  default: (props: ImgHTMLAttributes<HTMLImageElement> & { priority?: boolean }) => {
+    const { priority, ...rest } = props;
+    void priority;
+    // Test double for next/image; real app uses optimized Image.
+    // eslint-disable-next-line @next/next/no-img-element -- mock only
+    return <img {...rest} alt={rest.alt ?? ""} />;
+  },
 }));
 
 describe("CountryOverlay", () => {
