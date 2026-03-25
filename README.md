@@ -11,7 +11,7 @@ Fullscreen Next.js + TypeScript app that renders a world map with Mapbox, shows 
   - Map style: `dark` / `streets` / `satellite`
   - Theme: `dark` / `light`
 - Settings persist in `localStorage`.
-- Country data + local flags generated via script.
+- Country data and flag assets ship with the repo (`src/data/countries.json`, `public/flags`).
 - Linting and Vitest tests included.
 
 ## Requirements
@@ -34,19 +34,6 @@ The app reads `MAPBOX_ACCESS_TOKEN` from server-side env and passes it into the 
 ```bash
 npm install
 ```
-
-## Fetch Country Data + Flags
-
-This script pulls metadata from REST Countries and downloads flags from FlagCDN into `public/flags`.
-
-```bash
-npm run data:fetch
-```
-
-Generated files:
-
-- `src/data/countries.json`
-- `public/flags/*.svg`
 
 ## Run Locally
 

@@ -16,6 +16,7 @@ export function useMap({
   flyToToken,
   showOnlyFocusMarker,
   focusMarkerVariant = "flag",
+  exploreCountries,
   onFocusCountryClick,
 }: UseMapArgs) {
   const latestSettingsRef = useRef(settings);
@@ -41,6 +42,7 @@ export function useMap({
     showOnlyFocusMarker: Boolean(showOnlyFocusMarker),
     focusMarkerVariant,
     markerTheme: settings.theme,
+    exploreCountries,
     onFocusCountryClick,
   });
 
@@ -59,9 +61,12 @@ export function useMap({
     if (!map) {
       return;
     }
-    const lng = focusCountry.markerLng ?? focusCountry.latlng?.[1];
-    const lat = focusCountry.markerLat ?? focusCountry.latlng?.[0];
-    if (lng === null || lng === undefined || lat === null || lat === undefined) {
+    const ll = focusCountry.latlng;
+    if (!ll || ll.length < 2) {
+      return;
+    }
+    const [lat, lng] = ll;
+    if (!Number.isFinite(lat) || !Number.isFinite(lng)) {
       return;
     }
     map.flyTo({

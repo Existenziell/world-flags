@@ -9,7 +9,8 @@ import {
   COUNTRY_SOURCE_ID,
   PRIMARY_COUNTRIES_GEOJSON_URL,
 } from "@/src/constants";
-import { allCountries, getCountryByCode } from "@/src/lib/country-lookup";
+import { countryLngLat } from "@/src/lib/country-coords";
+import { getCountryByCode } from "@/src/lib/country-lookup";
 import { getIsoFromFeature } from "@/src/lib/iso";
 import { syncProjectionAndSkybox } from "@/src/hooks/useMapSync";
 import type { UseMapInteractionsArgs } from "@/src/types/use-map-interactions";
@@ -163,6 +164,7 @@ export function useMapInteractions({
   showOnlyFocusMarker,
   focusMarkerVariant,
   markerTheme,
+  exploreCountries,
   onFocusCountryClick,
 }: UseMapInteractionsArgs) {
   useEffect(() => {
@@ -232,22 +234,24 @@ export function useMapInteractions({
       const addFlagMarkers = () => {
         clearMarkers();
         const isChallengeFocusMode = showOnlyFocusMarker && Boolean(focusCountry);
-        const countriesToRender = isChallengeFocusMode && focusCountry ? [focusCountry] : allCountries;
+        const countriesToRender =
+          isChallengeFocusMode && focusCountry ? [focusCountry] : exploreCountries;
         const initialExploreSize = getExploreFlagSize(
           map.getZoom(),
           map.getContainer().clientWidth,
           map.getContainer().clientHeight,
         );
         for (const country of countriesToRender) {
-          if (country.markerLng === null || country.markerLat === null) {
+          const lngLat = countryLngLat(country);
+          if (!lngLat) {
             continue;
           }
           const markerData =
             isChallengeFocusMode && focusMarkerVariant === "name"
-              ? createNameMarker(country, [country.markerLng, country.markerLat], markerTheme)
+              ? createNameMarker(country, lngLat, markerTheme)
               : createFlagMarker(
                 country,
-                [country.markerLng, country.markerLat],
+                lngLat,
                 isChallengeFocusMode,
                 mode !== "challenge1",
                 mode === "explore" && !isChallengeFocusMode ? initialExploreSize : undefined,
@@ -333,6 +337,7 @@ export function useMapInteractions({
       cleanupMapBindings();
     };
   }, [
+    exploreCountries,
     focusCountry,
     latestSettingsRef,
     mapRef,

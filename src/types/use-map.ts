@@ -12,5 +12,6 @@ export type UseMapArgs = {
   flyToToken?: number;
   showOnlyFocusMarker?: boolean;
   focusMarkerVariant?: FocusMarkerVariant;
+  exploreCountries: Country[];
   onFocusCountryClick?: (country: Country) => void;
 };

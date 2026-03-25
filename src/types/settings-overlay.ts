@@ -5,4 +5,7 @@ export type SettingsOverlayProps = {
   onChange: (next: MapSettings) => void;
   onClose: () => void;
   hideMapStyle?: boolean;
+  showCountryFilters?: boolean;
+  /** Countries with markers after filters; used for empty-state hint. */
+  exploreMarkerCount?: number | null;
 };

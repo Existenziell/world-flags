@@ -13,5 +13,6 @@ export type WorldMapProps = {
   flyToToken?: number;
   showOnlyFocusMarker?: boolean;
   focusMarkerVariant?: FocusMarkerVariant;
+  exploreCountries: Country[];
   onFocusCountryClick?: (country: Country) => void;
 };

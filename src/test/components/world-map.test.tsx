@@ -2,6 +2,7 @@ import { render } from "@testing-library/react";
 import { DEFAULT_MAP_SETTINGS } from "@/src/constants";
 import { WorldMap } from "@/src/components/WorldMap";
 import type { Country } from "@/src/types/country";
+import { allCountries } from "@/src/lib/country-lookup";
 
 const { mockUseMap } = vi.hoisted(() => ({
   mockUseMap: vi.fn(),
@@ -32,6 +33,7 @@ describe("WorldMap", () => {
         focusCountry={focusCountry}
         showOnlyFocusMarker={false}
         focusMarkerVariant="flag"
+        exploreCountries={allCountries}
         onFocusCountryClick={onFocusCountryClick}
       />,
     );
@@ -45,6 +47,7 @@ describe("WorldMap", () => {
       flyToToken: undefined,
       showOnlyFocusMarker: false,
       focusMarkerVariant: "flag",
+      exploreCountries: allCountries,
       onFocusCountryClick,
     });
     expect(container.firstChild).toHaveClass("absolute", "inset-0", "h-full", "w-full");

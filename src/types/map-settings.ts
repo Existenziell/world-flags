@@ -1,3 +1,5 @@
+import type { CountryFilterCriteria } from "@/src/types/country-filters";
+
 export type MapProjection = "globe" | "mercator";
 export type MapStyleOption =
   | "dark"
@@ -28,4 +30,5 @@ export type MapSettings = {
   skySpaceColor: string;
   skyHorizonBlend: number;
   skyStarIntensity: number;
+  countryFilters: CountryFilterCriteria;
 };

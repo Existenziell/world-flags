@@ -1,5 +1,6 @@
 import { existsSync } from "node:fs";
 import path from "node:path";
+import wasNeverColonizedIso2 from "@/src/data/was-never-colonized-iso2.json";
 import countries from "@/src/data/countries.json";
 
 describe("countries dataset", () => {
@@ -12,6 +13,15 @@ describe("countries dataset", () => {
       iso3: expect.any(String),
       name: expect.any(String),
       colonizer: null,
+      memberships: {
+        brics: expect.any(Boolean),
+        eu: expect.any(Boolean),
+        commonwealth: expect.any(Boolean),
+        nato: expect.any(Boolean),
+        asean: expect.any(Boolean),
+        g7: expect.any(Boolean),
+        g20: expect.any(Boolean),
+      },
       flagPath: expect.stringMatching(/^\/flags\/[a-z]{2}\.svg$/),
       flag: {
         aspectRatio: expect.anything(),
@@ -19,6 +29,25 @@ describe("countries dataset", () => {
         sources: expect.any(Array),
       },
     });
+    expect(sample.wasColonized === null || typeof sample.wasColonized === "boolean").toBe(true);
+  });
+
+  it("sets wasColonized: true when colonizer is set", () => {
+    for (const c of countries) {
+      if (c.colonizer !== null) {
+        expect(c.wasColonized).toBe(true);
+      }
+    }
+  });
+
+  it("sets wasColonized: false for never-colonized ISO2 list", () => {
+    const never = new Set(wasNeverColonizedIso2);
+    for (const c of countries) {
+      if (never.has(c.iso2)) {
+        expect(c.colonizer).toBeNull();
+        expect(c.wasColonized).toBe(false);
+      }
+    }
   });
 
   it("contains valid flag metadata", () => {

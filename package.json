@@ -7,10 +7,6 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
-    "data:fetch": "tsx scripts/fetch-countries-and-flags.ts",
-    "data:merge-colonizers": "tsx scripts/merge-colonizers-into-countries.ts",
-    "data:flag-seed": "tsx scripts/build-flag-metadata-seed.ts",
-    "data:flag-enrich": "tsx scripts/enrich-flag-metadata.ts",
     "test": "vitest run",
     "test:watch": "vitest"
   },
@@ -32,7 +28,6 @@
     "eslint-config-next": "16.2.1",
     "jsdom": "^29.0.1",
     "tailwindcss": "^4",
-    "tsx": "^4.21.0",
     "typescript": "^5",
     "vitest": "^4.1.1"
   }

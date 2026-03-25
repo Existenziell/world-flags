@@ -2,6 +2,7 @@ import { fireEvent, render, screen } from "@testing-library/react";
 import type { ImgHTMLAttributes } from "react";
 import { ChallengeFlagPickerOverlay } from "@/src/components/ChallengeFlagPickerOverlay";
 import type { Country } from "@/src/types/country";
+import { DEFAULT_COUNTRY_MEMBERSHIPS } from "@/src/types/country";
 
 vi.mock("next/image", () => ({
   // eslint-disable-next-line @next/next/no-img-element
@@ -30,8 +31,6 @@ const country = (iso2: string, name: string): Country =>
     drivingSide: null,
     callingCodes: [],
     internetTlds: [],
-    googleMapsUrl: null,
-    openStreetMapsUrl: null,
     wikipediaUrl: "",
     languages: [],
     currencies: [],
@@ -41,9 +40,9 @@ const country = (iso2: string, name: string): Country =>
     startOfWeek: null,
     flagPath: `/flags/${iso2.toLowerCase()}.svg`,
     flag: { aspectRatio: null, notableHistory: null, sources: [] },
-    markerLng: null,
-    markerLat: null,
+    memberships: DEFAULT_COUNTRY_MEMBERSHIPS,
     colonizer: null,
+    wasColonized: null,
   }) as Country;
 
 describe("ChallengeFlagPickerOverlay", () => {

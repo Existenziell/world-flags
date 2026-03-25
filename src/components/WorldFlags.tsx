@@ -17,6 +17,8 @@ import { usePersistentSettings } from "@/src/hooks/usePersistentSettings";
 import { normalizeChallengeAnswer } from "@/src/lib/challenge-answer";
 import { buildChallengeSummary } from "@/src/lib/challenge-summary";
 import { parseChallengeSetupFromStorage } from "@/src/lib/challenge-setup";
+import { countryLngLat } from "@/src/lib/country-coords";
+import { applyCountryFilters } from "@/src/lib/country-filters";
 import { allCountries } from "@/src/lib/country-lookup";
 import { shuffleArray } from "@/src/lib/shuffle";
 import type {
@@ -74,8 +76,19 @@ export function WorldFlags({ accessToken }: WorldFlagsProps) {
 
   const mapSettings = useMemo(() => settings, [settings]);
 
+  const exploreMarkerCountries = useMemo(
+    () => applyCountryFilters(allCountries, settings.countryFilters),
+    [settings.countryFilters],
+  );
+
+  const exploreMapMarkerCount = useMemo(
+    () =>
+      exploreMarkerCountries.filter((country) => countryLngLat(country) !== null).length,
+    [exploreMarkerCountries],
+  );
+
   const prepareChallengeRun = useCallback((mode: Exclude<AppMode, "explore">) => {
-    const eligible = allCountries.filter((country) => country.markerLat !== null && country.markerLng !== null);
+    const eligible = allCountries.filter((country) => countryLngLat(country) !== null);
     const pool = shuffleArray(eligible);
     const limit = selectedRoundTarget === "all" ? pool.length : Math.min(selectedRoundTarget, pool.length);
     const nextCountries = pool.slice(0, limit);
@@ -318,6 +331,7 @@ export function WorldFlags({ accessToken }: WorldFlagsProps) {
         flyToToken={challengeFlyToToken}
         showOnlyFocusMarker={activeMode !== "explore"}
         focusMarkerVariant={activeMode === "challenge2" ? "name" : "flag"}
+        exploreCountries={exploreMarkerCountries}
         onFocusCountryClick={(country) => {
           if (activeMode === "challenge2" && activeChallengeCountry?.iso2 === country.iso2) {
             setFlagPickerOpen(true);
@@ -328,8 +342,10 @@ export function WorldFlags({ accessToken }: WorldFlagsProps) {
       <button
         type="button"
         onClick={() => setSettingsOpen((value) => !value)}
-        className="absolute right-4 top-4 z-50 cursor-pointer rounded-full border border-black/30 bg-white/95 p-2 text-zinc-900 shadow-lg transition hover:scale-105 dark:border-white/30 dark:bg-zinc-900/95 dark:text-zinc-50"
+        className={`absolute right-4 top-4 z-50 cursor-pointer rounded-full border border-black/30 bg-white/95 p-2 text-zinc-900 shadow-lg transition hover:scale-105 dark:border-white/30 dark:bg-zinc-900/95 dark:text-zinc-50 ${settingsOpen ? "invisible pointer-events-none" : ""}`}
         aria-label="Open settings"
+        aria-hidden={settingsOpen}
+        tabIndex={settingsOpen ? -1 : undefined}
       >
         <Image
           src="/icons/gear.svg"
@@ -350,6 +366,8 @@ export function WorldFlags({ accessToken }: WorldFlagsProps) {
           settings={settings}
           onChange={setSettings}
           hideMapStyle={activeMode !== "explore"}
+          showCountryFilters={activeMode === "explore"}
+          exploreMarkerCount={exploreMapMarkerCount}
           onClose={() => setSettingsOpen(false)}
         />
       ) : null}

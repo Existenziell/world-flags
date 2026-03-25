@@ -1,5 +1,5 @@
 /** ISO 3166-1 alpha-2 → sovereign / administering state (common English name). Omitted or null where disputed or not applicable.
- *  Persisted in `countries.json` as `colonizer`; kept here for `data:fetch` / `merge-colonizers` scripts. */
+ *  Must stay in sync with `colonizer` on non-independent rows in `src/data/countries.json`. */
 export const TERRITORY_COLONIZER_BY_ISO2: Record<string, string> = {
   AX: "Finland",
   AS: "United States",

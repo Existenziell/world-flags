@@ -46,6 +46,9 @@ describe("useMap", () => {
           accessToken: "token-1",
           settings,
           onCountrySelect,
+          mode: "explore",
+          focusCountry: null,
+          exploreCountries: [],
         }),
       {
         initialProps: {

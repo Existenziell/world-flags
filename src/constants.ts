@@ -1,3 +1,4 @@
+import type { CountryFilterCriteria } from "@/src/types/country-filters";
 import type { MapProjection, MapSettings, MapStyleOption, ThemeOption } from "@/src/types/map-settings";
 
 export const MAP_STYLE_OPTIONS: MapStyleOption[] = [
@@ -26,6 +27,30 @@ export const MAP_STYLE_URLS: Record<MapStyleOption, string> = {
 export const MAP_MIN_ZOOM = 0;
 export const MAP_MAX_ZOOM = 24;
 
+/** Bloc membership (BRICS, EU, NATO, …) lives on each row in `src/data/countries.json` as `memberships`. */
+
+export const DEFAULT_COUNTRY_FILTERS: CountryFilterCriteria = {
+  unMember: "any",
+  brics: "any",
+  eu: "any",
+  commonwealth: "any",
+  nato: "any",
+  asean: "any",
+  g7: "any",
+  g20: "any",
+  populationMin: null,
+  populationMax: null,
+  wasColonized: "any",
+  hasColonizer: null,
+  drivingSide: "any",
+  continents: [],
+  region: null,
+  subregion: null,
+  flagAspectRatios: [],
+  landlocked: "any",
+  independent: "any",
+};
+
 export const DEFAULT_MAP_SETTINGS: MapSettings = {
   projection: "globe",
   mapStyle: "satellite",
@@ -44,6 +69,7 @@ export const DEFAULT_MAP_SETTINGS: MapSettings = {
   skySpaceColor: "#0b1026",
   skyHorizonBlend: 0.2,
   skyStarIntensity: 0.35,
+  countryFilters: DEFAULT_COUNTRY_FILTERS,
 };
 
 export const SETTINGS_STORAGE_KEY = "world-flags-settings";
@@ -57,6 +83,7 @@ export const CHALLENGE_FLAG_PICKER_SIZE = 15;
 export const COUNTRY_SOURCE_ID = "world-countries";
 export const COUNTRY_FILL_LAYER = "world-countries-fill";
 export const COUNTRY_LINE_LAYER = "world-countries-outline";
+
 export const COUNTRY_GEOJSON_URLS = [
   "https://raw.githubusercontent.com/datasets/geo-countries/master/data/countries.geojson",
   "https://cdn.jsdelivr.net/gh/datasets/geo-countries@master/data/countries.geojson",

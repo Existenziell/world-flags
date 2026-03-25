@@ -14,5 +14,7 @@ export type UseMapInteractionsArgs = {
   showOnlyFocusMarker: boolean;
   focusMarkerVariant: FocusMarkerVariant;
   markerTheme: ThemeOption;
+  /** Explore-mode flag markers; ignored when `showOnlyFocusMarker` focuses one country. */
+  exploreCountries: Country[];
   onFocusCountryClick?: (country: Country) => void;
 };

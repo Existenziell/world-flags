@@ -12,6 +12,7 @@ export function WorldMap({
   flyToToken,
   showOnlyFocusMarker,
   focusMarkerVariant,
+  exploreCountries,
   onFocusCountryClick,
 }: WorldMapProps) {
   const { containerRef } = useMap({
@@ -23,6 +24,7 @@ export function WorldMap({
     flyToToken,
     showOnlyFocusMarker,
     focusMarkerVariant,
+    exploreCountries,
     onFocusCountryClick,
   });
 

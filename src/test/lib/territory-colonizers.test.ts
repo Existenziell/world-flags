@@ -7,6 +7,9 @@ describe("TERRITORY_COLONIZER_BY_ISO2 and countries.json", () => {
     expect(allCountries.find((c) => c.iso2 === "HK")?.colonizer).toBe("China");
     expect(allCountries.find((c) => c.iso2 === "DE")?.colonizer).toBeNull();
     expect(allCountries.find((c) => c.iso2 === "AQ")?.colonizer).toBeNull();
+    expect(allCountries.find((c) => c.iso2 === "HK")?.wasColonized).toBe(true);
+    expect(allCountries.find((c) => c.iso2 === "AX")?.wasColonized).toBe(true);
+    expect(allCountries.find((c) => c.iso2 === "DE")?.wasColonized).toBeNull();
   });
 
   it("covers every ISO2 used in the lookup table", () => {
@@ -16,6 +19,7 @@ describe("TERRITORY_COLONIZER_BY_ISO2 and countries.json", () => {
       const row = allCountries.find((c) => c.iso2 === iso2);
       expect(row, `missing ${iso2} in dataset`).toBeTruthy();
       expect(row?.colonizer).toBe(TERRITORY_COLONIZER_BY_ISO2[iso2]);
+      expect(row?.wasColonized).toBe(true);
     }
   });
 });

@@ -2,6 +2,7 @@ import { render, screen } from "@testing-library/react";
 import type { ImgHTMLAttributes } from "react";
 import { CountryOverlay } from "@/src/components/CountryOverlay";
 import type { Country } from "@/src/types/country";
+import { DEFAULT_COUNTRY_MEMBERSHIPS } from "@/src/types/country";
 
 vi.mock("next/image", () => ({
   default: (props: ImgHTMLAttributes<HTMLImageElement> & { priority?: boolean }) => {
@@ -36,8 +37,6 @@ describe("CountryOverlay", () => {
       drivingSide: "right",
       callingCodes: ["+49"],
       internetTlds: [".de"],
-      googleMapsUrl: "https://maps.google.com",
-      openStreetMapsUrl: "https://openstreetmap.org",
       wikipediaUrl: "https://en.wikipedia.org/wiki/Germany",
       languages: ["German"],
       currencies: ["Euro (€)"],
@@ -51,9 +50,15 @@ describe("CountryOverlay", () => {
         notableHistory: null,
         sources: ["https://en.wikipedia.org/wiki/Flag_of_Germany"],
       },
-      markerLng: 10,
-      markerLat: 51,
+      memberships: {
+        ...DEFAULT_COUNTRY_MEMBERSHIPS,
+        eu: true,
+        nato: true,
+        g7: true,
+        g20: true,
+      },
       colonizer: null,
+      wasColonized: null,
     };
 
     render(
@@ -86,12 +91,10 @@ describe("CountryOverlay", () => {
       continents: ["North America"],
       capital: "The Valley",
       areaKm2: 91,
-      latlng: [18.25, -63.17],
+      latlng: [18.22, -63.05],
       drivingSide: "left",
       callingCodes: ["+1264"],
       internetTlds: [".ai"],
-      googleMapsUrl: null,
-      openStreetMapsUrl: null,
       wikipediaUrl: "https://en.wikipedia.org/wiki/Anguilla",
       languages: ["English"],
       currencies: ["East Caribbean dollar"],
@@ -102,8 +105,8 @@ describe("CountryOverlay", () => {
       startOfWeek: "monday",
       flagPath: "/flags/ai.svg",
       flag: { aspectRatio: "3:2", notableHistory: null, sources: [] },
-      markerLng: -63.05,
-      markerLat: 18.22,
+      memberships: DEFAULT_COUNTRY_MEMBERSHIPS,
+      wasColonized: null,
     };
 
     render(<CountryOverlay country={territory} onClose={() => {}} />);

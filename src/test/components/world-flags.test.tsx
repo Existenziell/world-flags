@@ -40,8 +40,6 @@ const { testCountry, challengeCountries } = vi.hoisted(() => {
     drivingSide: "right",
     callingCodes: ["+49"],
     internetTlds: [".de"],
-    googleMapsUrl: null,
-    openStreetMapsUrl: null,
     wikipediaUrl: "https://en.wikipedia.org/wiki/Germany",
     languages: ["German"],
     currencies: ["Euro"],
@@ -55,9 +53,17 @@ const { testCountry, challengeCountries } = vi.hoisted(() => {
       notableHistory: null,
       sources: ["https://en.wikipedia.org/wiki/Flag_of_Germany"],
     },
-    markerLng: 10,
-    markerLat: 51,
+    memberships: {
+      brics: false,
+      eu: true,
+      commonwealth: false,
+      nato: true,
+      asean: false,
+      g7: true,
+      g20: true,
+    },
     colonizer: null,
+    wasColonized: null,
   };
 
   const makeCountry = (index: number): Country => {
@@ -72,8 +78,7 @@ const { testCountry, challengeCountries } = vi.hoisted(() => {
       officialName: `Country ${index} Official`,
       altSpellings: [`Country${index}`],
       flagPath: `/flags/country-${index}.svg`,
-      markerLng: index,
-      markerLat: index,
+      latlng: [index, index],
     };
   };
 
@@ -96,6 +101,18 @@ const { testCountry, challengeCountries } = vi.hoisted(() => {
 
 vi.mock("@/src/lib/country-lookup", () => ({
   allCountries: challengeCountries,
+}));
+
+/** Deterministic ordering: Germany must not be round 1, or "wrong guess" tests flake when shuffle puts DE first. */
+vi.mock("@/src/lib/shuffle", () => ({
+  shuffleArray: <T,>(items: readonly T[]): T[] =>
+    [...items].sort((a, b) => {
+      const aa = a as { iso2?: string };
+      const bb = b as { iso2?: string };
+      if (aa.iso2 === "DE") return 1;
+      if (bb.iso2 === "DE") return -1;
+      return 0;
+    }),
 }));
 
 vi.mock("next/image", () => ({

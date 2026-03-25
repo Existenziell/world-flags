@@ -7,6 +7,7 @@ import {
   LEGACY_SETTINGS_STORAGE_KEYS,
   SETTINGS_STORAGE_KEY,
 } from "@/src/constants";
+import { normalizeCountryFilters } from "@/src/lib/country-filters";
 
 function parseSettings(value: string | null): MapSettings {
   if (!value) {
@@ -33,6 +34,7 @@ function parseSettings(value: string | null): MapSettings {
       skySpaceColor: parsed.skySpaceColor ?? DEFAULT_MAP_SETTINGS.skySpaceColor,
       skyHorizonBlend: parsed.skyHorizonBlend ?? DEFAULT_MAP_SETTINGS.skyHorizonBlend,
       skyStarIntensity: parsed.skyStarIntensity ?? DEFAULT_MAP_SETTINGS.skyStarIntensity,
+      countryFilters: normalizeCountryFilters(parsed.countryFilters),
     };
   } catch {
     return DEFAULT_MAP_SETTINGS;
