@@ -43,6 +43,11 @@ describe("CountryOverlay", () => {
       landlocked: false,
       startOfWeek: "monday",
       flagPath: "/flags/de.svg",
+      flag: {
+        aspectRatio: "3:2",
+        notableHistory: null,
+        sources: ["https://en.wikipedia.org/wiki/Flag_of_Germany"],
+      },
       markerLng: 10,
       markerLat: 51,
     };

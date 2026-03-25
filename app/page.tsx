@@ -1,4 +1,4 @@
-import { CountryExplorer } from "@/src/components/CountryExplorer";
+import { WorldFlags } from "@/src/components/WorldFlags";
 
 export default function Home() {
   const token = process.env.MAPBOX_ACCESS_TOKEN;
@@ -15,7 +15,7 @@ export default function Home() {
 
   return (
     <main className="h-screen w-screen">
-      <CountryExplorer accessToken={token} />
+      <WorldFlags accessToken={token} />
     </main>
   );
 }

@@ -8,6 +8,8 @@
     "start": "next start",
     "lint": "eslint",
     "data:fetch": "tsx scripts/fetch-countries-and-flags.ts",
+    "data:flag-seed": "tsx scripts/build-flag-metadata-seed.ts",
+    "data:flag-enrich": "tsx scripts/enrich-flag-metadata.ts",
     "test": "vitest run",
     "test:watch": "vitest"
   },

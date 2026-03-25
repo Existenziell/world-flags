@@ -58,7 +58,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/af.svg",
     "markerLng": 69.18,
-    "markerLat": 34.52
+    "markerLat": 34.52,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": "The national flag of the Islamic Emirate of Afghanistan was adopted on 15 August 2021, with the Taliban's victory in the 2001–2021 war.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Afghanistan",
+        "https://en.wikipedia.org/wiki/Flag_of_Afghanistan"
+      ]
+    }
   },
   {
     "iso2": "AX",
@@ -112,7 +120,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/ax.svg",
     "markerLng": 19.9,
-    "markerLat": 60.12
+    "markerLat": 60.12,
+    "flag": {
+      "aspectRatio": "26:17",
+      "notableHistory": "The flag of Åland is a Nordic cross featuring a red cross fimbriated in yellow on a blue field, with the vertical arm shifted toward the hoist.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/%C3%85land",
+        "https://en.wikipedia.org/wiki/Flag_of_%C3%85land"
+      ]
+    }
   },
   {
     "iso2": "AL",
@@ -171,7 +187,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/al.svg",
     "markerLng": 19.82,
-    "markerLat": 41.32
+    "markerLat": 41.32,
+    "flag": {
+      "aspectRatio": "7:5",
+      "notableHistory": "The national flag of Albania depicts a silhouetted black double-headed eagle in the center of a red background.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Albania",
+        "https://en.wikipedia.org/wiki/Flag_of_Albania"
+      ]
+    }
   },
   {
     "iso2": "DZ",
@@ -233,7 +257,15 @@
     "startOfWeek": "sunday",
     "flagPath": "/flags/dz.svg",
     "markerLng": 3.05,
-    "markerLat": 36.75
+    "markerLat": 36.75,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": "The flag was adopted on 3 July 1962.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Algeria",
+        "https://en.wikipedia.org/wiki/Flag_of_Algeria"
+      ]
+    }
   },
   {
     "iso2": "AS",
@@ -288,7 +320,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/as.svg",
     "markerLng": -170.7,
-    "markerLat": -14.27
+    "markerLat": -14.27,
+    "flag": {
+      "aspectRatio": "2:1",
+      "notableHistory": "It was adopted in April 1960 to replace the \"Stars and Stripes\" as the official flag of the territory.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/American_Samoa",
+        "https://en.wikipedia.org/wiki/Flag_of_American_Samoa"
+      ]
+    }
   },
   {
     "iso2": "AD",
@@ -344,7 +384,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/ad.svg",
     "markerLng": 1.52,
-    "markerLat": 42.5
+    "markerLat": 42.5,
+    "flag": {
+      "aspectRatio": "10:7",
+      "notableHistory": "The national flag of Andorra features a vertical tricolour of blue, yellow, and red with the coat of arms of Andorra in the center.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Andorra",
+        "https://en.wikipedia.org/wiki/Flag_of_Andorra"
+      ]
+    }
   },
   {
     "iso2": "AO",
@@ -402,7 +450,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/ao.svg",
     "markerLng": 13.22,
-    "markerLat": -8.83
+    "markerLat": -8.83,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": "It was adopted on 11 November 1975, when Angola became independent from Portugal following the thirteen-year Angolan War of Independence.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Angola",
+        "https://en.wikipedia.org/wiki/Flag_of_Angola"
+      ]
+    }
   },
   {
     "iso2": "AI",
@@ -453,7 +509,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/ai.svg",
     "markerLng": -63.05,
-    "markerLat": 18.22
+    "markerLat": 18.22,
+    "flag": {
+      "aspectRatio": "2:1",
+      "notableHistory": "The national flag of Anguilla, a British overseas territory, consists of a Blue Ensign with the British flag in the canton, charged with the coat of arms of Anguilla in the fly.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Anguilla",
+        "https://en.wikipedia.org/wiki/Flag_of_Anguilla"
+      ]
+    }
   },
   {
     "iso2": "AQ",
@@ -505,7 +569,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/aq.svg",
     "markerLng": 0,
-    "markerLat": -75.2581045
+    "markerLat": -75.2581045,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": "As a condominium with no single governing body, the continent of Antarctica does not have an official flag of its own.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Antarctica",
+        "https://en.wikipedia.org/wiki/Flag_of_Antarctica"
+      ]
+    }
   },
   {
     "iso2": "AG",
@@ -556,7 +628,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/ag.svg",
     "markerLng": -61.85,
-    "markerLat": 17.12
+    "markerLat": 17.12,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": "The national flag of Antigua and Barbuda was adopted on 27 February 1967 to mark the achievement of self-government.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Antigua_and_Barbuda",
+        "https://en.wikipedia.org/wiki/Flag_of_Antigua_and_Barbuda"
+      ]
+    }
   },
   {
     "iso2": "AR",
@@ -616,7 +696,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/ar.svg",
     "markerLng": -58.67,
-    "markerLat": -34.58
+    "markerLat": -34.58,
+    "flag": {
+      "aspectRatio": "8:5",
+      "notableHistory": "The national flag of the Argentine Republic, often referred to as the Argentine flag, is a triband, composed of three equally wide horizontal bands coloured baby blue and white.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Argentina",
+        "https://en.wikipedia.org/wiki/Flag_of_Argentina"
+      ]
+    }
   },
   {
     "iso2": "AM",
@@ -675,7 +763,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/am.svg",
     "markerLng": 44.5,
-    "markerLat": 40.17
+    "markerLat": 40.17,
+    "flag": {
+      "aspectRatio": "2:1",
+      "notableHistory": "The Armenian Supreme Soviet adopted the current flag on 24 August 1990.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Armenia",
+        "https://en.wikipedia.org/wiki/Flag_of_Armenia"
+      ]
+    }
   },
   {
     "iso2": "AW",
@@ -727,7 +823,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/aw.svg",
     "markerLng": -70.03,
-    "markerLat": 12.52
+    "markerLat": 12.52,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": "The national flag of Aruba was adopted on 18 March 1976, along with the official anthem \"Aruba Dushi Tera\".",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Aruba",
+        "https://en.wikipedia.org/wiki/Flag_of_Aruba"
+      ]
+    }
   },
   {
     "iso2": "AU",
@@ -785,7 +889,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/au.svg",
     "markerLng": 149.13,
-    "markerLat": -35.27
+    "markerLat": -35.27,
+    "flag": {
+      "aspectRatio": "2:1",
+      "notableHistory": "The national flag of Australia is based on the British Blue Ensign—a blue field with the Union Jack in the upper hoist quarter—defaced with a large white seven-pointed star and a representation of the Southern Cross constellation, made up of five white stars.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Australia",
+        "https://en.wikipedia.org/wiki/Flag_of_Australia"
+      ]
+    }
   },
   {
     "iso2": "AT",
@@ -847,7 +959,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/at.svg",
     "markerLng": 16.37,
-    "markerLat": 48.2
+    "markerLat": 48.2,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": "The national flag of Austria is a triband in the following order: red, white, and red.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Austria",
+        "https://en.wikipedia.org/wiki/Flag_of_Austria"
+      ]
+    }
   },
   {
     "iso2": "AZ",
@@ -907,7 +1027,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/az.svg",
     "markerLng": 49.87,
-    "markerLat": 40.38
+    "markerLat": 40.38,
+    "flag": {
+      "aspectRatio": "2:1",
+      "notableHistory": "The national flag of Azerbaijan, often referred to as the Tricolor flag, is a horizontal tricolor that features three equally sized bars of bright blue, red, and green; a white crescent; and a centred eight-pointed star.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Azerbaijan",
+        "https://en.wikipedia.org/wiki/Flag_of_Azerbaijan"
+      ]
+    }
   },
   {
     "iso2": "BS",
@@ -960,7 +1088,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/bs.svg",
     "markerLng": -77.35,
-    "markerLat": 25.08
+    "markerLat": 25.08,
+    "flag": {
+      "aspectRatio": "2:1",
+      "notableHistory": "Adopted in 1973 to replace the British Blue Ensign defaced with the emblem of the Crown Colony of the Bahama Islands, it has been the flag of The Bahamas since the country gained independence that year.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/The_Bahamas",
+        "https://en.wikipedia.org/wiki/Flag_of_the_Bahamas"
+      ]
+    }
   },
   {
     "iso2": "BH",
@@ -1013,7 +1149,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/bh.svg",
     "markerLng": 50.57,
-    "markerLat": 26.23
+    "markerLat": 26.23,
+    "flag": {
+      "aspectRatio": "5:3",
+      "notableHistory": "The flag of Bahrain consists of a white band on the left, separated from a red area on the right by five triangles that serve as a serrated line.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bahrain",
+        "https://en.wikipedia.org/wiki/Flag_of_Bahrain"
+      ]
+    }
   },
   {
     "iso2": "BD",
@@ -1069,7 +1213,15 @@
     "startOfWeek": "sunday",
     "flagPath": "/flags/bd.svg",
     "markerLng": 90.4,
-    "markerLat": 23.72
+    "markerLat": 23.72,
+    "flag": {
+      "aspectRatio": "5:3",
+      "notableHistory": "The national flag of Bangladesh, nicknamed the Lal–Sobuj, was adopted officially on 17 January 1972.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bangladesh",
+        "https://en.wikipedia.org/wiki/Flag_of_Bangladesh"
+      ]
+    }
   },
   {
     "iso2": "BB",
@@ -1120,7 +1272,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/bb.svg",
     "markerLng": -59.62,
-    "markerLat": 13.1
+    "markerLat": 13.1,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": "Prescod and was officially adopted to represent Barbados at midnight on 30 November 1966, the day the country gained independence.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Barbados",
+        "https://en.wikipedia.org/wiki/Flag_of_Barbados"
+      ]
+    }
   },
   {
     "iso2": "BY",
@@ -1182,7 +1342,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/by.svg",
     "markerLng": 27.57,
-    "markerLat": 53.9
+    "markerLat": 53.9,
+    "flag": {
+      "aspectRatio": "2:1",
+      "notableHistory": "The current design was introduced in 2012 by the State Committee for Standardisation of the Republic of Belarus, and is adapted from a design approved in a May 1995 referendum.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Belarus",
+        "https://en.wikipedia.org/wiki/Flag_of_Belarus"
+      ]
+    }
   },
   {
     "iso2": "BE",
@@ -1248,7 +1416,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/be.svg",
     "markerLng": 4.33,
-    "markerLat": 50.83
+    "markerLat": 50.83,
+    "flag": {
+      "aspectRatio": "15:13",
+      "notableHistory": "The national flag of the Kingdom of Belgium is a tricolour consisting of three equal vertical bands displaying the national colours: black, yellow, and red.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Belgium",
+        "https://en.wikipedia.org/wiki/Flag_of_Belgium"
+      ]
+    }
   },
   {
     "iso2": "BZ",
@@ -1304,7 +1480,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/bz.svg",
     "markerLng": -88.77,
-    "markerLat": 17.25
+    "markerLat": 17.25,
+    "flag": {
+      "aspectRatio": "5:3",
+      "notableHistory": "The flag of Belize was adopted on 21 September 1981, the day Belize became independent.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Belize",
+        "https://en.wikipedia.org/wiki/Flag_of_Belize"
+      ]
+    }
   },
   {
     "iso2": "BJ",
@@ -1362,7 +1546,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/bj.svg",
     "markerLng": 2.62,
-    "markerLat": 6.48
+    "markerLat": 6.48,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": "Adopted in 1959 to replace the French Tricolour, it was the flag of the Republic of Dahomey until 1975, when the People's Republic of Benin was established.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Benin",
+        "https://en.wikipedia.org/wiki/Flag_of_Benin"
+      ]
+    }
   },
   {
     "iso2": "BM",
@@ -1416,7 +1608,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/bm.svg",
     "markerLng": -64.78,
-    "markerLat": 32.28
+    "markerLat": 32.28,
+    "flag": {
+      "aspectRatio": "2:1",
+      "notableHistory": "The flag of the British Overseas Territory of Bermuda as a red ensign was first adopted on 4 October 1910.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bermuda",
+        "https://en.wikipedia.org/wiki/Flag_of_Bermuda"
+      ]
+    }
   },
   {
     "iso2": "BT",
@@ -1472,7 +1672,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/bt.svg",
     "markerLng": 89.63,
-    "markerLat": 27.47
+    "markerLat": 27.47,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": "The national flag of Bhutan is one of the national symbols of Bhutan.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bhutan",
+        "https://en.wikipedia.org/wiki/Flag_of_Bhutan"
+      ]
+    }
   },
   {
     "iso2": "BO",
@@ -1540,7 +1748,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/bo.svg",
     "markerLng": -65.26,
-    "markerLat": -19.02
+    "markerLat": -19.02,
+    "flag": {
+      "aspectRatio": "48507:33073",
+      "notableHistory": "The national flag of the Plurinational State of Bolivia was originally adopted in 1851.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bolivia",
+        "https://en.wikipedia.org/wiki/Flag_of_Bolivia"
+      ]
+    }
   },
   {
     "iso2": "BA",
@@ -1599,7 +1815,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/ba.svg",
     "markerLng": 18.42,
-    "markerLat": 43.87
+    "markerLat": 43.87,
+    "flag": {
+      "aspectRatio": "2:1",
+      "notableHistory": "The national flag of Bosnia and Herzegovina contains a medium blue field with a yellow right triangle separating said field, and there are seven full five-pointed white stars and two half stars top and bottom along the hypotenuse of the triangle.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina",
+        "https://en.wikipedia.org/wiki/Flag_of_Bosnia_and_Herzegovina"
+      ]
+    }
   },
   {
     "iso2": "BW",
@@ -1658,7 +1882,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/bw.svg",
     "markerLng": 25.9,
-    "markerLat": -24.63
+    "markerLat": -24.63,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": "Adopted in 1966 to replace the Union Jack, it has been the flag of the Republic of Botswana since the country gained independence that year.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Botswana",
+        "https://en.wikipedia.org/wiki/Flag_of_Botswana"
+      ]
+    }
   },
   {
     "iso2": "BV",
@@ -1709,7 +1941,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/bv.svg",
     "markerLng": null,
-    "markerLat": null
+    "markerLat": null,
+    "flag": {
+      "aspectRatio": "11:8",
+      "notableHistory": "The national flag of Norway is red with a navy blue Scandinavian cross bordered in white that extends to the edges of the flag; the vertical part of the cross is shifted to the hoist side in the style of the Dannebrog, the flag of Denmark.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bouvet_Island",
+        "https://en.wikipedia.org/wiki/Flag_of_Norway"
+      ]
+    }
   },
   {
     "iso2": "BR",
@@ -1777,7 +2017,15 @@
     "startOfWeek": "sunday",
     "flagPath": "/flags/br.svg",
     "markerLng": -47.88,
-    "markerLat": -15.79
+    "markerLat": -15.79,
+    "flag": {
+      "aspectRatio": "10:7",
+      "notableHistory": "It was officially adopted on 19 November 1889, four days after the Proclamation of the Republic, to replace the flag of the Empire of Brazil.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Brazil",
+        "https://en.wikipedia.org/wiki/Flag_of_Brazil"
+      ]
+    }
   },
   {
     "iso2": "IO",
@@ -1828,7 +2076,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/io.svg",
     "markerLng": 72.4,
-    "markerLat": -7.3
+    "markerLat": -7.3,
+    "flag": {
+      "aspectRatio": "2:1",
+      "notableHistory": "The flag of the British Indian Ocean Territory is similar to the flags of other British dependencies and colonies as it has the Union Flag in the upper hoist-side corner.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/British_Indian_Ocean_Territory",
+        "https://en.wikipedia.org/wiki/Flag_of_the_British_Indian_Ocean_Territory"
+      ]
+    }
   },
   {
     "iso2": "VG",
@@ -1880,7 +2136,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/vg.svg",
     "markerLng": -64.62,
-    "markerLat": 18.42
+    "markerLat": 18.42,
+    "flag": {
+      "aspectRatio": "2:1",
+      "notableHistory": "The flag of the Virgin Islands was adopted by Royal Warrant on 15 November 1960 after the islands were made into a separate British colony.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/British_Virgin_Islands",
+        "https://en.wikipedia.org/wiki/Flag_of_the_British_Virgin_Islands"
+      ]
+    }
   },
   {
     "iso2": "BN",
@@ -1937,7 +2201,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/bn.svg",
     "markerLng": 114.93,
-    "markerLat": 4.88
+    "markerLat": 4.88,
+    "flag": {
+      "aspectRatio": "2:1",
+      "notableHistory": "The modern flag was adopted in 1959 along with their new constitusion.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Brunei",
+        "https://en.wikipedia.org/wiki/Flag_of_Brunei"
+      ]
+    }
   },
   {
     "iso2": "BG",
@@ -1996,7 +2268,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/bg.svg",
     "markerLng": 23.32,
-    "markerLat": 42.68
+    "markerLat": 42.68,
+    "flag": {
+      "aspectRatio": "5:3",
+      "notableHistory": "The flag was first adopted after the 1877–1878 Russo-Turkish War, when Bulgaria gained de facto independence.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bulgaria",
+        "https://en.wikipedia.org/wiki/Flag_of_Bulgaria"
+      ]
+    }
   },
   {
     "iso2": "BF",
@@ -2054,7 +2334,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/bf.svg",
     "markerLng": -1.52,
-    "markerLat": 12.37
+    "markerLat": 12.37,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": "The flag was adopted on 4 August 1984.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Burkina_Faso",
+        "https://en.wikipedia.org/wiki/Flag_of_Burkina_Faso"
+      ]
+    }
   },
   {
     "iso2": "BI",
@@ -2113,7 +2401,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/bi.svg",
     "markerLng": 29.93,
-    "markerLat": -3.43
+    "markerLat": -3.43,
+    "flag": {
+      "aspectRatio": "5:3",
+      "notableHistory": "The original national flag of Burundi was adopted after the Burundian independence from Belgium on 1 July 1962.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Burundi",
+        "https://en.wikipedia.org/wiki/Flag_of_Burundi"
+      ]
+    }
   },
   {
     "iso2": "KH",
@@ -2170,7 +2466,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/kh.svg",
     "markerLng": 104.92,
-    "markerLat": 11.55
+    "markerLat": 11.55,
+    "flag": {
+      "aspectRatio": "25:16",
+      "notableHistory": "The flag of Cambodia (ទង់ជាតិកម្ពុជា) or the Khmer flag (ទង់ជាតិខ្មែរ) features a flag with three bands of blue, red in double width and blue with a depiction of the Angkor Wat in white outlined in black centered on the red band.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Cambodia",
+        "https://en.wikipedia.org/wiki/Flag_of_Cambodia"
+      ]
+    }
   },
   {
     "iso2": "CM",
@@ -2231,7 +2535,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/cm.svg",
     "markerLng": 11.5,
-    "markerLat": 3.85
+    "markerLat": 3.85,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": "The national flag of Cameroon was adopted in its present form on 20 May 1975 after Cameroon became a unitary state.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Cameroon",
+        "https://en.wikipedia.org/wiki/Flag_of_Cameroon"
+      ]
+    }
   },
   {
     "iso2": "CA",
@@ -2288,7 +2600,15 @@
     "startOfWeek": "sunday",
     "flagPath": "/flags/ca.svg",
     "markerLng": -75.7,
-    "markerLat": 45.42
+    "markerLat": 45.42,
+    "flag": {
+      "aspectRatio": "2:1",
+      "notableHistory": "It is the first flag to have been adopted by both houses of Parliament and officially proclaimed by the Canadian monarch as the country's official national flag.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Canada",
+        "https://en.wikipedia.org/wiki/Flag_of_Canada"
+      ]
+    }
   },
   {
     "iso2": "CV",
@@ -2341,7 +2661,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/cv.svg",
     "markerLng": -23.52,
-    "markerLat": 14.92
+    "markerLat": 14.92,
+    "flag": {
+      "aspectRatio": "17:10",
+      "notableHistory": "The national flag of Cape Verde was adopted on 22 September 1992, replacing the flag adopted during independence.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Cape_Verde",
+        "https://en.wikipedia.org/wiki/Flag_of_Cape_Verde"
+      ]
+    }
   },
   {
     "iso2": "BQ",
@@ -2395,7 +2723,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/bq.svg",
     "markerLng": -68.27,
-    "markerLat": 12.14
+    "markerLat": 12.14,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": "The national flag of the Netherlands is a horizontal tricolour of red, white, and blue.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Caribbean_Netherlands",
+        "https://en.wikipedia.org/wiki/Flag_of_the_Netherlands"
+      ]
+    }
   },
   {
     "iso2": "KY",
@@ -2446,7 +2782,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/ky.svg",
     "markerLng": -81.38,
-    "markerLat": 19.3
+    "markerLat": 19.3,
+    "flag": {
+      "aspectRatio": "2:1",
+      "notableHistory": "Adopted in 1959 to supplement the Union Jack and to replace the flag of the Colony of Jamaica, it has been the flag of the Cayman Islands since the territory was granted self-government that year.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Cayman_Islands",
+        "https://en.wikipedia.org/wiki/Flag_of_the_Cayman_Islands"
+      ]
+    }
   },
   {
     "iso2": "CF",
@@ -2507,7 +2851,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/cf.svg",
     "markerLng": 18.58,
-    "markerLat": 4.37
+    "markerLat": 4.37,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": "The flag of the Republic of Central Africa was officially adopted in 1958.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Central_African_Republic",
+        "https://en.wikipedia.org/wiki/Flag_of_the_Central_African_Republic"
+      ]
+    }
   },
   {
     "iso2": "TD",
@@ -2569,7 +2921,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/td.svg",
     "markerLng": 15.03,
-    "markerLat": 12.1
+    "markerLat": 12.1,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": "It was adopted on 6 November 1959, almost a year after the founding of the autonomous Republic of Chad.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Chad",
+        "https://en.wikipedia.org/wiki/Flag_of_Chad"
+      ]
+    }
   },
   {
     "iso2": "CL",
@@ -2627,7 +2987,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/cl.svg",
     "markerLng": -70.67,
-    "markerLat": -33.45
+    "markerLat": -33.45,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": "It was adopted on 18 October 1817.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Chile",
+        "https://en.wikipedia.org/wiki/Flag_of_Chile"
+      ]
+    }
   },
   {
     "iso2": "CN",
@@ -2705,7 +3073,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/cn.svg",
     "markerLng": 116.38,
-    "markerLat": 39.92
+    "markerLat": 39.92,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": "The national flag of the People's Republic of China is a Chinese red field with five golden stars charged at the canton.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/China",
+        "https://en.wikipedia.org/wiki/Flag_of_China"
+      ]
+    }
   },
   {
     "iso2": "CX",
@@ -2757,7 +3133,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/cx.svg",
     "markerLng": 105.68,
-    "markerLat": -10.42
+    "markerLat": -10.42,
+    "flag": {
+      "aspectRatio": "2:1",
+      "notableHistory": "The flag of Christmas Island was adopted on 26 January 2002.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Christmas_Island",
+        "https://en.wikipedia.org/wiki/Flag_of_Christmas_Island"
+      ]
+    }
   },
   {
     "iso2": "CC",
@@ -2810,7 +3194,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/cc.svg",
     "markerLng": 96.83,
-    "markerLat": -12.17
+    "markerLat": -12.17,
+    "flag": {
+      "aspectRatio": "2:1",
+      "notableHistory": "The flag of the Cocos (Keeling) Islands is a green field with symbols such as a palm tree on a gold disc, which represents the islands' tropical flora; a crescent, which represent the Cocos Malays; and the Southern Cross, which represent Australia and the Southern Hemisphere.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Cocos_(Keeling)_Islands",
+        "https://en.wikipedia.org/wiki/Flag_of_the_Cocos_(Keeling)_Islands"
+      ]
+    }
   },
   {
     "iso2": "CO",
@@ -2869,7 +3261,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/co.svg",
     "markerLng": -74.07,
-    "markerLat": 4.71
+    "markerLat": 4.71,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": "The flag of the Republic of Colombia, also known as El Tricolor Nacional, is the national flag representing the country and, alongside the coat of arms and the national anthem, constitutes one of its official national symbols.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Colombia",
+        "https://en.wikipedia.org/wiki/Flag_of_Colombia"
+      ]
+    }
   },
   {
     "iso2": "KM",
@@ -2926,7 +3326,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/km.svg",
     "markerLng": 43.23,
-    "markerLat": -11.7
+    "markerLat": -11.7,
+    "flag": {
+      "aspectRatio": "5:3",
+      "notableHistory": "The national flag of the Union of the Comoros was designed in 2001 and officially adopted on 23 December of that year.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Comoros",
+        "https://en.wikipedia.org/wiki/Flag_of_the_Comoros"
+      ]
+    }
   },
   {
     "iso2": "CK",
@@ -2980,7 +3388,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/ck.svg",
     "markerLng": -159.77,
-    "markerLat": -21.2
+    "markerLat": -21.2,
+    "flag": {
+      "aspectRatio": "2:1",
+      "notableHistory": "The flag of the Cook Islands, officially known as the Cook Islands Ensign, is based on the traditional design for former British colonies in the Pacific region.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Cook_Islands",
+        "https://en.wikipedia.org/wiki/Flag_of_the_Cook_Islands"
+      ]
+    }
   },
   {
     "iso2": "CR",
@@ -3036,7 +3452,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/cr.svg",
     "markerLng": -84.09,
-    "markerLat": 9.93
+    "markerLat": 9.93,
+    "flag": {
+      "aspectRatio": "5:3",
+      "notableHistory": "The national flag of Costa Rica is based on a design created in 1848 and consists of two blue stripes, two white stripes, and a central red stripe which is twice as wide as each of the other four.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Costa_Rica",
+        "https://en.wikipedia.org/wiki/Flag_of_Costa_Rica"
+      ]
+    }
   },
   {
     "iso2": "HR",
@@ -3096,7 +3520,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/hr.svg",
     "markerLng": 16,
-    "markerLat": 45.8
+    "markerLat": 45.8,
+    "flag": {
+      "aspectRatio": "2:1",
+      "notableHistory": "The national flag of the Republic of Croatia, also known in Croatian as the Tricolor or the Red-white-blue (Crven-bijeli-plavi), is one of the state symbols of Croatia.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Croatia",
+        "https://en.wikipedia.org/wiki/Flag_of_Croatia"
+      ]
+    }
   },
   {
     "iso2": "CU",
@@ -3150,7 +3582,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/cu.svg",
     "markerLng": -82.35,
-    "markerLat": 23.12
+    "markerLat": 23.12,
+    "flag": {
+      "aspectRatio": "2:1",
+      "notableHistory": "It was designed in 1849 and officially adopted May 20, 1902.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Cuba",
+        "https://en.wikipedia.org/wiki/Flag_of_Cuba"
+      ]
+    }
   },
   {
     "iso2": "CW",
@@ -3208,7 +3648,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/cw.svg",
     "markerLng": -68.92,
-    "markerLat": 12.1
+    "markerLat": 12.1,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": "The national flag of Curaçao represents the country of Curaçao.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Cura%C3%A7ao",
+        "https://en.wikipedia.org/wiki/Flag_of_Cura%C3%A7ao"
+      ]
+    }
   },
   {
     "iso2": "CY",
@@ -3265,7 +3713,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/cy.svg",
     "markerLng": 33.37,
-    "markerLat": 35.17
+    "markerLat": 35.17,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": "The flag of Cyprus came into use on 16 August 1960, under the Zürich and London Agreements, whereby a constitution was drafted and Cyprus was proclaimed an independent state.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Cyprus",
+        "https://en.wikipedia.org/wiki/Flag_of_Cyprus"
+      ]
+    }
   },
   {
     "iso2": "CZ",
@@ -3324,7 +3780,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/cz.svg",
     "markerLng": 14.47,
-    "markerLat": 50.08
+    "markerLat": 50.08,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": "Upon the dissolution of Czechoslovakia in December 1992, the Czech Republic kept the Czechoslovak flag while Slovakia adopted its own flag.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Czech_Republic",
+        "https://en.wikipedia.org/wiki/Flag_of_the_Czech_Republic"
+      ]
+    }
   },
   {
     "iso2": "DK",
@@ -3384,7 +3848,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/dk.svg",
     "markerLng": 12.58,
-    "markerLat": 55.67
+    "markerLat": 55.67,
+    "flag": {
+      "aspectRatio": "37:28",
+      "notableHistory": "The Dannebrog is the flag of Denmark.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Denmark",
+        "https://en.wikipedia.org/wiki/Dannebrog"
+      ]
+    }
   },
   {
     "iso2": "DJ",
@@ -3446,7 +3918,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/dj.svg",
     "markerLng": 43.15,
-    "markerLat": 11.58
+    "markerLat": 11.58,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": "The national flag of Djibouti is a horizontal flag bicolour with equal bands of light blue and light green, with a white, equilateral triangle at the hoist.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Djibouti",
+        "https://en.wikipedia.org/wiki/Flag_of_Djibouti"
+      ]
+    }
   },
   {
     "iso2": "DM",
@@ -3500,7 +3980,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/dm.svg",
     "markerLng": -61.4,
-    "markerLat": 15.3
+    "markerLat": 15.3,
+    "flag": {
+      "aspectRatio": "2:1",
+      "notableHistory": "The national flag of Dominica was adopted on 3 November 1978, with some small changes having been made in 1981, 1988, and 1990.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Dominica",
+        "https://en.wikipedia.org/wiki/Flag_of_Dominica"
+      ]
+    }
   },
   {
     "iso2": "DO",
@@ -3555,7 +4043,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/do.svg",
     "markerLng": -69.9,
-    "markerLat": 18.47
+    "markerLat": 18.47,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": "The national flag of the Dominican Republic is one of the official national symbols of the nation, along with the coat of arms and the national anthem.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Dominican_Republic",
+        "https://en.wikipedia.org/wiki/Flag_of_the_Dominican_Republic"
+      ]
+    }
   },
   {
     "iso2": "CD",
@@ -3625,7 +4121,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/cd.svg",
     "markerLng": 15.3,
-    "markerLat": -4.32
+    "markerLat": -4.32,
+    "flag": {
+      "aspectRatio": "4:3",
+      "notableHistory": "It was adopted on 18 February 2006.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo",
+        "https://en.wikipedia.org/wiki/Flag_of_the_Democratic_Republic_of_the_Congo"
+      ]
+    }
   },
   {
     "iso2": "EC",
@@ -3682,7 +4186,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/ec.svg",
     "markerLng": -78.5,
-    "markerLat": -0.22
+    "markerLat": -0.22,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": "The national flag of Ecuador, which consists of horizontal bands of the Pan-Colombian colors of yellow, blue and red, was first adopted by law in 1835 and later on 26 September 1860.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ecuador",
+        "https://en.wikipedia.org/wiki/Flag_of_Ecuador"
+      ]
+    }
   },
   {
     "iso2": "EG",
@@ -3740,7 +4252,15 @@
     "startOfWeek": "sunday",
     "flagPath": "/flags/eg.svg",
     "markerLng": 31.25,
-    "markerLat": 30.05
+    "markerLat": 30.05,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": "The national flag of Egypt is a tricolour consisting of the three equal horizontal red, white, and black bands of the Arab Liberation Flag that dates back to the 1952 Egyptian Revolution.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Egypt",
+        "https://en.wikipedia.org/wiki/Flag_of_Egypt"
+      ]
+    }
   },
   {
     "iso2": "SV",
@@ -3796,7 +4316,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/sv.svg",
     "markerLng": -89.2,
-    "markerLat": 13.7
+    "markerLat": 13.7,
+    "flag": {
+      "aspectRatio": "335:189",
+      "notableHistory": "The current flag was adopted by the Legislative Assembly of El Salvador on 24 March 1916, and its design is established by the Law of National Symbols approved in 1972.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/El_Salvador",
+        "https://en.wikipedia.org/wiki/Flag_of_El_Salvador"
+      ]
+    }
   },
   {
     "iso2": "GQ",
@@ -3856,7 +4384,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/gq.svg",
     "markerLng": 10.49,
-    "markerLat": 1.35
+    "markerLat": 1.35,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": "The flag of Equatorial Guinea was adopted on August 21, 1979.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Equatorial_Guinea",
+        "https://en.wikipedia.org/wiki/Flag_of_Equatorial_Guinea"
+      ]
+    }
   },
   {
     "iso2": "ER",
@@ -3918,7 +4454,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/er.svg",
     "markerLng": 38.93,
-    "markerLat": 15.33
+    "markerLat": 15.33,
+    "flag": {
+      "aspectRatio": "2:1",
+      "notableHistory": "It was adopted on 5 December 1995.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Eritrea",
+        "https://en.wikipedia.org/wiki/Flag_of_Eritrea"
+      ]
+    }
   },
   {
     "iso2": "EE",
@@ -3975,7 +4519,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/ee.svg",
     "markerLng": 24.72,
-    "markerLat": 59.43
+    "markerLat": 59.43,
+    "flag": {
+      "aspectRatio": "11:7",
+      "notableHistory": "The national flag of Estonia is a tricolour featuring three equal horizontal bands of blue at the top, black in the centre, and white at the bottom.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Estonia",
+        "https://en.wikipedia.org/wiki/Flag_of_Estonia"
+      ]
+    }
   },
   {
     "iso2": "SZ",
@@ -4037,7 +4589,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/sz.svg",
     "markerLng": 31.13,
-    "markerLat": -26.32
+    "markerLat": -26.32,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": "The flag of Eswatini was adopted on 6 October 1968 after Eswatini gained its independence from the United Kingdom one month before.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Eswatini",
+        "https://en.wikipedia.org/wiki/Flag_of_Eswatini"
+      ]
+    }
   },
   {
     "iso2": "ET",
@@ -4098,7 +4658,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/et.svg",
     "markerLng": 38.7,
-    "markerLat": 9.03
+    "markerLat": 9.03,
+    "flag": {
+      "aspectRatio": "2:1",
+      "notableHistory": "While the colours green, yellow, and red in combination held symbolic importance since at least the early 17th century, the modern tricolour was first adopted on 11 October 1897 by Menelik II, and the present flag on 31 October 1996.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ethiopia",
+        "https://en.wikipedia.org/wiki/Flag_of_Ethiopia"
+      ]
+    }
   },
   {
     "iso2": "FK",
@@ -4151,7 +4719,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/fk.svg",
     "markerLng": -57.85,
-    "markerLat": -51.7
+    "markerLat": -51.7,
+    "flag": {
+      "aspectRatio": "2:1",
+      "notableHistory": "The current flag of the Falkland Islands was adopted on 25 January 1999 and consists of a defaced Blue Ensign, with the Union Flag in the canton and the Falkland Islands coat-of-arms in the fly.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Falkland_Islands",
+        "https://en.wikipedia.org/wiki/Flag_of_the_Falkland_Islands"
+      ]
+    }
   },
   {
     "iso2": "FO",
@@ -4206,7 +4782,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/fo.svg",
     "markerLng": -6.77,
-    "markerLat": 62.01
+    "markerLat": 62.01,
+    "flag": {
+      "aspectRatio": "11:8",
+      "notableHistory": "The flag of the Faroe Islands is a Nordic cross on a white field, with a red cross fimbriated in blue.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Faroe_Islands",
+        "https://en.wikipedia.org/wiki/Flag_of_the_Faroe_Islands"
+      ]
+    }
   },
   {
     "iso2": "FJ",
@@ -4263,7 +4847,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/fj.svg",
     "markerLng": 178.42,
-    "markerLat": -18.13
+    "markerLat": -18.13,
+    "flag": {
+      "aspectRatio": "2:1",
+      "notableHistory": "The national flag of Fiji was adopted on 10 October 1970.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Fiji",
+        "https://en.wikipedia.org/wiki/Flag_of_Fiji"
+      ]
+    }
   },
   {
     "iso2": "FI",
@@ -4323,7 +4915,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/fi.svg",
     "markerLng": 24.93,
-    "markerLat": 60.17
+    "markerLat": 60.17,
+    "flag": {
+      "aspectRatio": "18:11",
+      "notableHistory": "The flag was adopted after independence from the Russian Empire, but its design has roots in the 19th century.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Finland",
+        "https://en.wikipedia.org/wiki/Flag_of_Finland"
+      ]
+    }
   },
   {
     "iso2": "FR",
@@ -4398,7 +4998,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/fr.svg",
     "markerLng": 2.33,
-    "markerLat": 48.87
+    "markerLat": 48.87,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": "The design was adopted during the French Revolution and has remained the national flag since then, with only minor variations in shade and proportion.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/France",
+        "https://en.wikipedia.org/wiki/Flag_of_France"
+      ]
+    }
   },
   {
     "iso2": "GF",
@@ -4454,7 +5062,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/gf.svg",
     "markerLng": -52.33,
-    "markerLat": 4.94
+    "markerLat": 4.94,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": "French Guiana has no official flag, with the national French flag used when a flag is needed to represent it either as an overseas region or an department of France.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/French_Guiana",
+        "https://en.wikipedia.org/wiki/Flag_of_French_Guiana"
+      ]
+    }
   },
   {
     "iso2": "PF",
@@ -4510,7 +5126,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/pf.svg",
     "markerLng": -149.56,
-    "markerLat": -17.53
+    "markerLat": -17.53,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": "The flag of French Polynesia was adopted in 1984.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/French_Polynesia",
+        "https://en.wikipedia.org/wiki/Flag_of_French_Polynesia"
+      ]
+    }
   },
   {
     "iso2": "TF",
@@ -4562,7 +5186,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/tf.svg",
     "markerLng": -1.4,
-    "markerLat": 48.81
+    "markerLat": 48.81,
+    "flag": {
+      "aspectRatio": "425197:283465",
+      "notableHistory": "The flag was adopted on 23 February 2007.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/French_Southern_and_Antarctic_Lands",
+        "https://en.wikipedia.org/wiki/Flag_of_the_French_Southern_and_Antarctic_Lands"
+      ]
+    }
   },
   {
     "iso2": "GA",
@@ -4619,7 +5251,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/ga.svg",
     "markerLng": 9.45,
-    "markerLat": 0.38
+    "markerLat": 0.38,
+    "flag": {
+      "aspectRatio": "4:3",
+      "notableHistory": "Adopted in 1960 to replace the previous colonial flag containing the French Tricolour at the canton, it has been the flag of the Gabonese Republic since the country gained independence that year.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Gabon",
+        "https://en.wikipedia.org/wiki/Flag_of_Gabon"
+      ]
+    }
   },
   {
     "iso2": "GM",
@@ -4673,7 +5313,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/gm.svg",
     "markerLng": -16.57,
-    "markerLat": 13.45
+    "markerLat": 13.45,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": "Adopted in 1965 to replace the British Blue Ensign defaced with the arms of the Gambia Colony and Protectorate, it has been the flag of the Republic of the Gambia since the country gained independence that year.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/The_Gambia",
+        "https://en.wikipedia.org/wiki/Flag_of_the_Gambia"
+      ]
+    }
   },
   {
     "iso2": "GE",
@@ -4730,7 +5378,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/ge.svg",
     "markerLng": 44.83,
-    "markerLat": 41.68
+    "markerLat": 41.68,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": "The flag of Georgia, also known as the Five-Cross Flag, is one of the national symbols of Georgia.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Georgia_(country)",
+        "https://en.wikipedia.org/wiki/Flag_of_Georgia_(country)"
+      ]
+    }
   },
   {
     "iso2": "DE",
@@ -4793,7 +5449,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/de.svg",
     "markerLng": 13.4,
-    "markerLat": 52.52
+    "markerLat": 52.52,
+    "flag": {
+      "aspectRatio": "5:3",
+      "notableHistory": "It was officially adopted as the national flag of the German Reich from 1919 to 1933, and has been in use since its reintroduction in the Federal Republic of Germany in 1949.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Germany",
+        "https://en.wikipedia.org/wiki/Flag_of_Germany"
+      ]
+    }
   },
   {
     "iso2": "GH",
@@ -4848,7 +5512,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/gh.svg",
     "markerLng": -0.22,
-    "markerLat": 5.55
+    "markerLat": 5.55,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": "The national flag of Ghana consists of a horizontal triband of red, yellow, and green with a black five-pointed star in the center taking up all of the width of the yellow stripe, touching the red and green stripes.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ghana",
+        "https://en.wikipedia.org/wiki/Flag_of_Ghana"
+      ]
+    }
   },
   {
     "iso2": "GI",
@@ -4901,7 +5573,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/gi.svg",
     "markerLng": -5.35,
-    "markerLat": 36.13
+    "markerLat": 36.13,
+    "flag": {
+      "aspectRatio": "2:1",
+      "notableHistory": "The flag of Gibraltar is an elongated banner of arms based on the coat of arms of Gibraltar, granted by Royal Warrant from Queen Isabella I of Castile on 10 July 1502.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Gibraltar",
+        "https://en.wikipedia.org/wiki/Flag_of_Gibraltar"
+      ]
+    }
   },
   {
     "iso2": "GR",
@@ -4960,7 +5640,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/gr.svg",
     "markerLng": 23.73,
-    "markerLat": 37.98
+    "markerLat": 37.98,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": "The shade of blue used in the flag has varied throughout its history, from light blue to dark blue, the latter being increasingly used since the late 1960s.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Greece",
+        "https://en.wikipedia.org/wiki/Flag_of_Greece"
+      ]
+    }
   },
   {
     "iso2": "GL",
@@ -5015,7 +5703,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/gl.svg",
     "markerLng": -51.75,
-    "markerLat": 64.18
+    "markerLat": 64.18,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": "The flag of Greenland features two equal horizontal bands of white (top) and red (bottom) with a counter-changed red-and-white disc slightly to the hoist side of centre.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Greenland",
+        "https://en.wikipedia.org/wiki/Flag_of_Greenland"
+      ]
+    }
   },
   {
     "iso2": "GD",
@@ -5066,7 +5762,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/gd.svg",
     "markerLng": -64.68,
-    "markerLat": 32.38
+    "markerLat": 32.38,
+    "flag": {
+      "aspectRatio": "5:3",
+      "notableHistory": "Adopted in 1974 to replace the temporary design used since the islands became an Associated State of the United Kingdom, it has been the flag of Grenada since the country gained independence that year.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Grenada",
+        "https://en.wikipedia.org/wiki/Flag_of_Grenada"
+      ]
+    }
   },
   {
     "iso2": "GP",
@@ -5118,7 +5822,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/gp.svg",
     "markerLng": -61.73,
-    "markerLat": 16.03
+    "markerLat": 16.03,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": "Guadeloupe, an overseas region and department of France located in the Caribbean, has no flag with official status other than the French national flag.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Guadeloupe",
+        "https://en.wikipedia.org/wiki/Flag_of_Guadeloupe"
+      ]
+    }
   },
   {
     "iso2": "GU",
@@ -5172,7 +5884,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/gu.svg",
     "markerLng": 144.75,
-    "markerLat": 13.48
+    "markerLat": 13.48,
+    "flag": {
+      "aspectRatio": "41:22",
+      "notableHistory": "The flag of Guam was adopted on February 9, 1948.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Guam",
+        "https://en.wikipedia.org/wiki/Flag_of_Guam"
+      ]
+    }
   },
   {
     "iso2": "GT",
@@ -5228,7 +5948,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/gt.svg",
     "markerLng": -90.52,
-    "markerLat": 14.62
+    "markerLat": 14.62,
+    "flag": {
+      "aspectRatio": "8:5",
+      "notableHistory": "The flag of Guatemala, often referred to as the National Pavilion or the Blue-and-White, features two colors: sky blue and white.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Guatemala",
+        "https://en.wikipedia.org/wiki/Flag_of_Guatemala"
+      ]
+    }
   },
   {
     "iso2": "GG",
@@ -5284,7 +6012,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/gg.svg",
     "markerLng": -2.54,
-    "markerLat": 49.45
+    "markerLat": 49.45,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": "The flag of Guernsey was adopted in 1985 and consists of the red Saint George's Cross with an additional gold Norman cross within it.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bailiwick_of_Guernsey",
+        "https://en.wikipedia.org/wiki/Flag_of_Guernsey"
+      ]
+    }
   },
   {
     "iso2": "GN",
@@ -5344,7 +6080,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/gn.svg",
     "markerLng": -13.7,
-    "markerLat": 9.5
+    "markerLat": 9.5,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": "It was adopted on 10 November 1958, with the publication of the country's first Constitution.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Guinea",
+        "https://en.wikipedia.org/wiki/Flag_of_Guinea"
+      ]
+    }
   },
   {
     "iso2": "GW",
@@ -5401,7 +6145,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/gw.svg",
     "markerLng": -15.58,
-    "markerLat": 11.85
+    "markerLat": 11.85,
+    "flag": {
+      "aspectRatio": "2:1",
+      "notableHistory": "The national flag of Guinea-Bissau was adopted on the day Guinea-Bissau proclaimed its independence from Portugal in 24 September 1973.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Guinea-Bissau",
+        "https://en.wikipedia.org/wiki/Flag_of_Guinea-Bissau"
+      ]
+    }
   },
   {
     "iso2": "GY",
@@ -5457,7 +6209,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/gy.svg",
     "markerLng": -58.15,
-    "markerLat": 6.8
+    "markerLat": 6.8,
+    "flag": {
+      "aspectRatio": "5:3",
+      "notableHistory": "The national flag of Guyana, known as the Golden Arrowhead, was adopted on May 1966, when the country became independent from the United Kingdom.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Guyana",
+        "https://en.wikipedia.org/wiki/Flag_of_Guyana"
+      ]
+    }
   },
   {
     "iso2": "HT",
@@ -5514,7 +6274,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/ht.svg",
     "markerLng": -72.33,
-    "markerLat": 18.53
+    "markerLat": 18.53,
+    "flag": {
+      "aspectRatio": "5:3",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Haiti"
+      ]
+    }
   },
   {
     "iso2": "HM",
@@ -5563,7 +6330,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/hm.svg",
     "markerLng": 73.524099,
-    "markerLat": -53.077081
+    "markerLat": -53.077081,
+    "flag": {
+      "aspectRatio": "2:1",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Heard_Island_and_McDonald_Islands"
+      ]
+    }
   },
   {
     "iso2": "HN",
@@ -5620,7 +6394,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/hn.svg",
     "markerLng": -87.22,
-    "markerLat": 14.1
+    "markerLat": 14.1,
+    "flag": {
+      "aspectRatio": "2:1",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Honduras"
+      ]
+    }
   },
   {
     "iso2": "HK",
@@ -5675,7 +6456,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/hk.svg",
     "markerLng": 114.188,
-    "markerLat": 22.267
+    "markerLat": 22.267,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Hong_Kong"
+      ]
+    }
   },
   {
     "iso2": "HU",
@@ -5734,7 +6522,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/hu.svg",
     "markerLng": 19.08,
-    "markerLat": 47.5
+    "markerLat": 47.5,
+    "flag": {
+      "aspectRatio": "2:1",
+      "notableHistory": "The national flag of Hungary, also known as the Red-White-Green, is an equal horizontal tricolour of red, white and green.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Hungary",
+        "https://en.wikipedia.org/wiki/Flag_of_Hungary"
+      ]
+    }
   },
   {
     "iso2": "IS",
@@ -5788,7 +6584,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/is.svg",
     "markerLng": -21.95,
-    "markerLat": 64.15
+    "markerLat": 64.15,
+    "flag": {
+      "aspectRatio": "25:18",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Iceland"
+      ]
+    }
   },
   {
     "iso2": "IN",
@@ -5852,7 +6655,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/in.svg",
     "markerLng": 77.2,
-    "markerLat": 28.6
+    "markerLat": 28.6,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/India"
+      ]
+    }
   },
   {
     "iso2": "ID",
@@ -5911,7 +6721,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/id.svg",
     "markerLng": 106.82,
-    "markerLat": -6.17
+    "markerLat": -6.17,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Indonesia"
+      ]
+    }
   },
   {
     "iso2": "IR",
@@ -5974,7 +6791,14 @@
     "startOfWeek": "saturday",
     "flagPath": "/flags/ir.svg",
     "markerLng": 51.42,
-    "markerLat": 35.7
+    "markerLat": 35.7,
+    "flag": {
+      "aspectRatio": "7:4",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Iran"
+      ]
+    }
   },
   {
     "iso2": "IQ",
@@ -6036,7 +6860,15 @@
     "startOfWeek": "sunday",
     "flagPath": "/flags/iq.svg",
     "markerLng": 44.4,
-    "markerLat": 33.33
+    "markerLat": 33.33,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": "The current official and internationally recognized flag of Iraq was adopted in 2008 as a temporary compromise, and consists of the three equal horizontal red, white, and black stripes of the Arab Liberation Flag, that was first used by Gamal Abdel Nasser during the Egyptian Revolution, with the takbīr written in green in the Kufic script that was originally added by Saddam Hussein following the Gulf War.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Iraq",
+        "https://en.wikipedia.org/wiki/Flag_of_Iraq"
+      ]
+    }
   },
   {
     "iso2": "IE",
@@ -6093,7 +6925,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/ie.svg",
     "markerLng": -6.23,
-    "markerLat": 53.32
+    "markerLat": 53.32,
+    "flag": {
+      "aspectRatio": "2:1",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Republic_of_Ireland"
+      ]
+    }
   },
   {
     "iso2": "IM",
@@ -6149,7 +6988,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/im.svg",
     "markerLng": -4.48,
-    "markerLat": 54.15
+    "markerLat": 54.15,
+    "flag": {
+      "aspectRatio": "2:1",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Isle_of_Man"
+      ]
+    }
   },
   {
     "iso2": "IL",
@@ -6209,7 +7055,14 @@
     "startOfWeek": "sunday",
     "flagPath": "/flags/il.svg",
     "markerLng": 35.23,
-    "markerLat": 31.77
+    "markerLat": 31.77,
+    "flag": {
+      "aspectRatio": "11:8",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Israel"
+      ]
+    }
   },
   {
     "iso2": "IT",
@@ -6270,7 +7123,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/it.svg",
     "markerLng": 12.48,
-    "markerLat": 41.9
+    "markerLat": 41.9,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Italy"
+      ]
+    }
   },
   {
     "iso2": "CI",
@@ -6331,7 +7191,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/ci.svg",
     "markerLng": -5.27,
-    "markerLat": 6.82
+    "markerLat": 6.82,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": "It was adopted on 3 December 1959 with the passing of law no.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ivory_Coast",
+        "https://en.wikipedia.org/wiki/Flag_of_Ivory_Coast"
+      ]
+    }
   },
   {
     "iso2": "JM",
@@ -6384,7 +7252,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/jm.svg",
     "markerLng": -76.79358,
-    "markerLat": 17.99702
+    "markerLat": 17.99702,
+    "flag": {
+      "aspectRatio": "2:1",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Jamaica"
+      ]
+    }
   },
   {
     "iso2": "JP",
@@ -6438,7 +7313,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/jp.svg",
     "markerLng": 139.75,
-    "markerLat": 35.68
+    "markerLat": 35.68,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Japan"
+      ]
+    }
   },
   {
     "iso2": "JE",
@@ -6495,7 +7377,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/je.svg",
     "markerLng": -2.1,
-    "markerLat": 49.18
+    "markerLat": 49.18,
+    "flag": {
+      "aspectRatio": "5:3",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Jersey"
+      ]
+    }
   },
   {
     "iso2": "JO",
@@ -6555,7 +7444,14 @@
     "startOfWeek": "sunday",
     "flagPath": "/flags/jo.svg",
     "markerLng": 35.93,
-    "markerLat": 31.95
+    "markerLat": 31.95,
+    "flag": {
+      "aspectRatio": "2:1",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Jordan"
+      ]
+    }
   },
   {
     "iso2": "KZ",
@@ -6623,7 +7519,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/kz.svg",
     "markerLng": 71.45,
-    "markerLat": 51.16
+    "markerLat": 51.16,
+    "flag": {
+      "aspectRatio": "2:1",
+      "notableHistory": "The State Flag of the Republic of Kazakhstan was adopted on 4 June 1992, replacing the Soviet-era flag.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kazakhstan",
+        "https://en.wikipedia.org/wiki/Flag_of_Kazakhstan"
+      ]
+    }
   },
   {
     "iso2": "KE",
@@ -6683,7 +7587,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/ke.svg",
     "markerLng": 36.82,
-    "markerLat": -1.28
+    "markerLat": -1.28,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kenya"
+      ]
+    }
   },
   {
     "iso2": "KI",
@@ -6740,7 +7651,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/ki.svg",
     "markerLng": 172.98,
-    "markerLat": 1.33
+    "markerLat": 1.33,
+    "flag": {
+      "aspectRatio": "2:1",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kiribati"
+      ]
+    }
   },
   {
     "iso2": "XK",
@@ -6796,7 +7714,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/xk.svg",
     "markerLng": 21.17,
-    "markerLat": 42.67
+    "markerLat": 42.67,
+    "flag": {
+      "aspectRatio": "7:5",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kosovo"
+      ]
+    }
   },
   {
     "iso2": "KW",
@@ -6852,7 +7777,14 @@
     "startOfWeek": "sunday",
     "flagPath": "/flags/kw.svg",
     "markerLng": 47.97,
-    "markerLat": 29.37
+    "markerLat": 29.37,
+    "flag": {
+      "aspectRatio": "2:1",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kuwait"
+      ]
+    }
   },
   {
     "iso2": "KG",
@@ -6913,7 +7845,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/kg.svg",
     "markerLng": 74.6,
-    "markerLat": 42.87
+    "markerLat": 42.87,
+    "flag": {
+      "aspectRatio": "550469:330281",
+      "notableHistory": "Adopted in 1992, just over seven months after the country's independence was declared, to replace the flag of the Kirghiz Soviet Socialist Republic, it has been the flag of Kyrgyzstan since that year.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kyrgyzstan",
+        "https://en.wikipedia.org/wiki/Flag_of_Kyrgyzstan"
+      ]
+    }
   },
   {
     "iso2": "LA",
@@ -6973,7 +7913,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/la.svg",
     "markerLng": 102.6,
-    "markerLat": 17.97
+    "markerLat": 17.97,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": "The flag was first adopted in 1945 under the Lao Issara government of 1945–46, then by the Pathet Lao.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Laos",
+        "https://en.wikipedia.org/wiki/Flag_of_Laos"
+      ]
+    }
   },
   {
     "iso2": "LV",
@@ -7031,7 +7979,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/lv.svg",
     "markerLng": 24.1,
-    "markerLat": 56.95
+    "markerLat": 56.95,
+    "flag": {
+      "aspectRatio": "2:1",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Latvia"
+      ]
+    }
   },
   {
     "iso2": "LB",
@@ -7088,7 +8043,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/lb.svg",
     "markerLng": 35.5,
-    "markerLat": 33.87
+    "markerLat": 33.87,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lebanon",
+        "https://en.wikipedia.org/wiki/Flag_of_Lebanon"
+      ]
+    }
   },
   {
     "iso2": "LS",
@@ -7145,7 +8108,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/ls.svg",
     "markerLng": 27.48,
-    "markerLat": -29.32
+    "markerLat": -29.32,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lesotho"
+      ]
+    }
   },
   {
     "iso2": "LR",
@@ -7201,7 +8171,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/lr.svg",
     "markerLng": -10.8,
-    "markerLat": 6.3
+    "markerLat": 6.3,
+    "flag": {
+      "aspectRatio": "19:10",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Liberia"
+      ]
+    }
   },
   {
     "iso2": "LY",
@@ -7261,7 +8238,15 @@
     "startOfWeek": "sunday",
     "flagPath": "/flags/ly.svg",
     "markerLng": 13.17,
-    "markerLat": 32.88
+    "markerLat": 32.88,
+    "flag": {
+      "aspectRatio": "2:1",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Libya",
+        "https://en.wikipedia.org/wiki/Flag_of_Libya"
+      ]
+    }
   },
   {
     "iso2": "LI",
@@ -7317,7 +8302,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/li.svg",
     "markerLng": 9.52,
-    "markerLat": 47.13
+    "markerLat": 47.13,
+    "flag": {
+      "aspectRatio": "5:3",
+      "notableHistory": "A design with a modified crown was adopted on 30 June 1982.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Liechtenstein",
+        "https://en.wikipedia.org/wiki/Flag_of_Liechtenstein"
+      ]
+    }
   },
   {
     "iso2": "LT",
@@ -7375,7 +8368,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/lt.svg",
     "markerLng": 25.32,
-    "markerLat": 54.68
+    "markerLat": 54.68,
+    "flag": {
+      "aspectRatio": "5:3",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lithuania"
+      ]
+    }
   },
   {
     "iso2": "LU",
@@ -7436,7 +8436,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/lu.svg",
     "markerLng": 6.12,
-    "markerLat": 49.6
+    "markerLat": 49.6,
+    "flag": {
+      "aspectRatio": "5:3",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Luxembourg"
+      ]
+    }
   },
   {
     "iso2": "MO",
@@ -7495,7 +8502,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/mo.svg",
     "markerLng": 113.55368050000001,
-    "markerLat": 22.163072
+    "markerLat": 22.163072,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Macau",
+        "https://en.wikipedia.org/wiki/Flag_of_Macau"
+      ]
+    }
   },
   {
     "iso2": "MG",
@@ -7550,7 +8565,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/mg.svg",
     "markerLng": 47.52,
-    "markerLat": -18.92
+    "markerLat": -18.92,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Madagascar"
+      ]
+    }
   },
   {
     "iso2": "MW",
@@ -7607,7 +8629,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/mw.svg",
     "markerLng": 33.78,
-    "markerLat": -13.97
+    "markerLat": -13.97,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": "The national flag of Malawi was officially adopted on 6 July 1964 when the colony of Nyasaland became independent from British rule and renamed itself Malawi.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Malawi",
+        "https://en.wikipedia.org/wiki/Flag_of_Malawi"
+      ]
+    }
   },
   {
     "iso2": "MY",
@@ -7663,7 +8693,15 @@
     "startOfWeek": "sunday",
     "flagPath": "/flags/my.svg",
     "markerLng": 101.7,
-    "markerLat": 3.17
+    "markerLat": 3.17,
+    "flag": {
+      "aspectRatio": "2:1",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Malaysia",
+        "https://en.wikipedia.org/wiki/Flag_of_Malaysia"
+      ]
+    }
   },
   {
     "iso2": "MV",
@@ -7717,7 +8755,14 @@
     "startOfWeek": "sunday",
     "flagPath": "/flags/mv.svg",
     "markerLng": 73.51,
-    "markerLat": 4.17
+    "markerLat": 4.17,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Maldives"
+      ]
+    }
   },
   {
     "iso2": "ML",
@@ -7778,7 +8823,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/ml.svg",
     "markerLng": -8,
-    "markerLat": 12.65
+    "markerLat": 12.65,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mali"
+      ]
+    }
   },
   {
     "iso2": "MT",
@@ -7832,7 +8884,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/mt.svg",
     "markerLng": 14.5,
-    "markerLat": 35.88
+    "markerLat": 35.88,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": "The flag of Malta is a bicolour, with white in the hoist and red in the fly.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Malta",
+        "https://en.wikipedia.org/wiki/Flag_of_Malta"
+      ]
+    }
   },
   {
     "iso2": "MH",
@@ -7886,7 +8946,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/mh.svg",
     "markerLng": 171.38,
-    "markerLat": 7.1
+    "markerLat": 7.1,
+    "flag": {
+      "aspectRatio": "19:10",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Marshall_Islands"
+      ]
+    }
   },
   {
     "iso2": "MQ",
@@ -7937,7 +9004,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/mq.svg",
     "markerLng": -61.08,
-    "markerLat": 14.6
+    "markerLat": 14.6,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Martinique"
+      ]
+    }
   },
   {
     "iso2": "MR",
@@ -7995,7 +9069,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/mr.svg",
     "markerLng": -15.97,
-    "markerLat": 18.07
+    "markerLat": 18.07,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mauritania"
+      ]
+    }
   },
   {
     "iso2": "MU",
@@ -8050,7 +9131,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/mu.svg",
     "markerLng": 57.48,
-    "markerLat": -20.15
+    "markerLat": -20.15,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mauritius"
+      ]
+    }
   },
   {
     "iso2": "YT",
@@ -8103,7 +9191,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/yt.svg",
     "markerLng": 45.22,
-    "markerLat": -12.78
+    "markerLat": -12.78,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mayotte",
+        "https://en.wikipedia.org/wiki/Flag_of_Mayotte"
+      ]
+    }
   },
   {
     "iso2": "MX",
@@ -8163,7 +9259,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/mx.svg",
     "markerLng": -99.13,
-    "markerLat": 19.43
+    "markerLat": 19.43,
+    "flag": {
+      "aspectRatio": "7:4",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mexico"
+      ]
+    }
   },
   {
     "iso2": "FM",
@@ -8217,7 +9320,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/fm.svg",
     "markerLng": 158.15,
-    "markerLat": 6.92
+    "markerLat": 6.92,
+    "flag": {
+      "aspectRatio": "19:10",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Federated_States_of_Micronesia"
+      ]
+    }
   },
   {
     "iso2": "MD",
@@ -8274,7 +9384,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/md.svg",
     "markerLng": 28.9,
-    "markerLat": 47.01
+    "markerLat": 47.01,
+    "flag": {
+      "aspectRatio": "2:1",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Moldova"
+      ]
+    }
   },
   {
     "iso2": "MC",
@@ -8329,7 +9446,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/mc.svg",
     "markerLng": 7.42,
-    "markerLat": 43.73
+    "markerLat": 43.73,
+    "flag": {
+      "aspectRatio": "5:4",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Monaco"
+      ]
+    }
   },
   {
     "iso2": "MN",
@@ -8384,7 +9508,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/mn.svg",
     "markerLng": 106.91,
-    "markerLat": 47.92
+    "markerLat": 47.92,
+    "flag": {
+      "aspectRatio": "2:1",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mongolia",
+        "https://en.wikipedia.org/wiki/Flag_of_Mongolia"
+      ]
+    }
   },
   {
     "iso2": "ME",
@@ -8442,7 +9574,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/me.svg",
     "markerLng": 19.27,
-    "markerLat": 42.43
+    "markerLat": 42.43,
+    "flag": {
+      "aspectRatio": "2:1",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Montenegro"
+      ]
+    }
   },
   {
     "iso2": "MS",
@@ -8493,7 +9632,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/ms.svg",
     "markerLng": -62.22,
-    "markerLat": 16.7
+    "markerLat": 16.7,
+    "flag": {
+      "aspectRatio": "2:1",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Montserrat"
+      ]
+    }
   },
   {
     "iso2": "MA",
@@ -8552,7 +9698,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/ma.svg",
     "markerLng": -6.82,
-    "markerLat": 34.02
+    "markerLat": 34.02,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Morocco"
+      ]
+    }
   },
   {
     "iso2": "MZ",
@@ -8612,7 +9765,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/mz.svg",
     "markerLng": 32.58,
-    "markerLat": -25.95
+    "markerLat": -25.95,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mozambique"
+      ]
+    }
   },
   {
     "iso2": "MM",
@@ -8672,7 +9832,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/mm.svg",
     "markerLng": 96.07,
-    "markerLat": 19.76
+    "markerLat": 19.76,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": "The current flag was adopted on 21 October 2010.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Myanmar",
+        "https://en.wikipedia.org/wiki/Flag_of_Myanmar"
+      ]
+    }
   },
   {
     "iso2": "NA",
@@ -8739,7 +9907,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/na.svg",
     "markerLng": 17.08,
-    "markerLat": -22.57
+    "markerLat": -22.57,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Namibia"
+      ]
+    }
   },
   {
     "iso2": "NR",
@@ -8795,7 +9970,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/nr.svg",
     "markerLng": 166.92,
-    "markerLat": -0.55
+    "markerLat": -0.55,
+    "flag": {
+      "aspectRatio": "2:1",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Nauru"
+      ]
+    }
   },
   {
     "iso2": "NP",
@@ -8851,7 +10033,14 @@
     "startOfWeek": "sunday",
     "flagPath": "/flags/np.svg",
     "markerLng": 85.32,
-    "markerLat": 27.72
+    "markerLat": 27.72,
+    "flag": {
+      "aspectRatio": "23857:29082",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Nepal"
+      ]
+    }
   },
   {
     "iso2": "NL",
@@ -8908,7 +10097,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/nl.svg",
     "markerLng": 4.92,
-    "markerLat": 52.35
+    "markerLat": 52.35,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Netherlands"
+      ]
+    }
   },
   {
     "iso2": "NC",
@@ -8959,7 +10155,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/nc.svg",
     "markerLng": 166.45,
-    "markerLat": -22.27
+    "markerLat": -22.27,
+    "flag": {
+      "aspectRatio": "2:1",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/New_Caledonia"
+      ]
+    }
   },
   {
     "iso2": "NZ",
@@ -9017,7 +10220,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/nz.svg",
     "markerLng": 174.78,
-    "markerLat": -41.3
+    "markerLat": -41.3,
+    "flag": {
+      "aspectRatio": "2:1",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/New_Zealand"
+      ]
+    }
   },
   {
     "iso2": "NI",
@@ -9073,7 +10283,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/ni.svg",
     "markerLng": -86.25,
-    "markerLat": 12.13
+    "markerLat": 12.13,
+    "flag": {
+      "aspectRatio": "5:3",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Nicaragua"
+      ]
+    }
   },
   {
     "iso2": "NE",
@@ -9133,7 +10350,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/ne.svg",
     "markerLng": 2.12,
-    "markerLat": 13.52
+    "markerLat": 13.52,
+    "flag": {
+      "aspectRatio": "7:6",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Niger"
+      ]
+    }
   },
   {
     "iso2": "NG",
@@ -9192,7 +10416,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/ng.svg",
     "markerLng": 7.53,
-    "markerLat": 9.08
+    "markerLat": 9.08,
+    "flag": {
+      "aspectRatio": "2:1",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Nigeria"
+      ]
+    }
   },
   {
     "iso2": "NU",
@@ -9244,7 +10475,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/nu.svg",
     "markerLng": -169.92,
-    "markerLat": -19.02
+    "markerLat": -19.02,
+    "flag": {
+      "aspectRatio": "2:1",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Niue",
+        "https://en.wikipedia.org/wiki/Flag_of_Niue"
+      ]
+    }
   },
   {
     "iso2": "NF",
@@ -9298,7 +10537,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/nf.svg",
     "markerLng": 167.97,
-    "markerLat": -29.05
+    "markerLat": -29.05,
+    "flag": {
+      "aspectRatio": "2:1",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Norfolk_Island"
+      ]
+    }
   },
   {
     "iso2": "KP",
@@ -9360,7 +10606,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/kp.svg",
     "markerLng": 125.75,
-    "markerLat": 39.02
+    "markerLat": 39.02,
+    "flag": {
+      "aspectRatio": "2:1",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/North_Korea"
+      ]
+    }
   },
   {
     "iso2": "MK",
@@ -9421,7 +10674,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/mk.svg",
     "markerLng": 21.43,
-    "markerLat": 42
+    "markerLat": 42,
+    "flag": {
+      "aspectRatio": "2:1",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/North_Macedonia"
+      ]
+    }
   },
   {
     "iso2": "MP",
@@ -9476,7 +10736,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/mp.svg",
     "markerLng": 145.75,
-    "markerLat": 15.2
+    "markerLat": 15.2,
+    "flag": {
+      "aspectRatio": "2:1",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Northern_Mariana_Islands"
+      ]
+    }
   },
   {
     "iso2": "NO",
@@ -9538,7 +10805,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/no.svg",
     "markerLng": 10.75,
-    "markerLat": 59.92
+    "markerLat": 59.92,
+    "flag": {
+      "aspectRatio": "11:8",
+      "notableHistory": "The national flag of Norway is red with a navy blue Scandinavian cross bordered in white that extends to the edges of the flag; the vertical part of the cross is shifted to the hoist side in the style of the Dannebrog, the flag of Denmark.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Norway",
+        "https://en.wikipedia.org/wiki/Flag_of_Norway"
+      ]
+    }
   },
   {
     "iso2": "OM",
@@ -9595,7 +10870,15 @@
     "startOfWeek": "sunday",
     "flagPath": "/flags/om.svg",
     "markerLng": 58.58,
-    "markerLat": 23.62
+    "markerLat": 23.62,
+    "flag": {
+      "aspectRatio": "7:4",
+      "notableHistory": "The national flag of Oman consists of two horizontal stripes of upper white and lower green, separated by a red horizontal \"T\" shape in the centre that contains the national emblem of Oman.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Oman",
+        "https://en.wikipedia.org/wiki/Flag_of_Oman"
+      ]
+    }
   },
   {
     "iso2": "PK",
@@ -9655,7 +10938,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/pk.svg",
     "markerLng": 73.05,
-    "markerLat": 33.68
+    "markerLat": 33.68,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pakistan"
+      ]
+    }
   },
   {
     "iso2": "PW",
@@ -9709,7 +10999,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/pw.svg",
     "markerLng": 134.62,
-    "markerLat": 7.5
+    "markerLat": 7.5,
+    "flag": {
+      "aspectRatio": "8:5",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Palau"
+      ]
+    }
   },
   {
     "iso2": "PS",
@@ -9770,7 +11067,14 @@
     "startOfWeek": "sunday",
     "flagPath": "/flags/ps.svg",
     "markerLng": 35.2,
-    "markerLat": 31.9
+    "markerLat": 31.9,
+    "flag": {
+      "aspectRatio": "2:1",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Palestine"
+      ]
+    }
   },
   {
     "iso2": "PA",
@@ -9827,7 +11131,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/pa.svg",
     "markerLng": -79.53,
-    "markerLat": 8.97
+    "markerLat": 8.97,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Panama"
+      ]
+    }
   },
   {
     "iso2": "PG",
@@ -9884,7 +11195,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/pg.svg",
     "markerLng": 147.18,
-    "markerLat": -9.45
+    "markerLat": -9.45,
+    "flag": {
+      "aspectRatio": "4:3",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Papua_New_Guinea"
+      ]
+    }
   },
   {
     "iso2": "PY",
@@ -9943,7 +11261,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/py.svg",
     "markerLng": -57.57,
-    "markerLat": -25.28
+    "markerLat": -25.28,
+    "flag": {
+      "aspectRatio": "20:11",
+      "notableHistory": "The current design of the flag of Paraguay was first adopted in 1842.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Paraguay",
+        "https://en.wikipedia.org/wiki/Flag_of_Paraguay"
+      ]
+    }
   },
   {
     "iso2": "PE",
@@ -10004,7 +11330,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/pe.svg",
     "markerLng": -77.05,
-    "markerLat": -12.05
+    "markerLat": -12.05,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Peru"
+      ]
+    }
   },
   {
     "iso2": "PH",
@@ -10058,7 +11391,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/ph.svg",
     "markerLng": 120.97,
-    "markerLat": 14.6
+    "markerLat": 14.6,
+    "flag": {
+      "aspectRatio": "2:1",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Philippines"
+      ]
+    }
   },
   {
     "iso2": "PN",
@@ -10111,7 +11451,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/pn.svg",
     "markerLng": -130.08,
-    "markerLat": -25.07
+    "markerLat": -25.07,
+    "flag": {
+      "aspectRatio": "2:1",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pitcairn_Islands"
+      ]
+    }
   },
   {
     "iso2": "PL",
@@ -10172,7 +11519,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/pl.svg",
     "markerLng": 21,
-    "markerLat": 52.25
+    "markerLat": 52.25,
+    "flag": {
+      "aspectRatio": "8:5",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Poland"
+      ]
+    }
   },
   {
     "iso2": "PT",
@@ -10229,7 +11583,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/pt.svg",
     "markerLng": -9.13,
-    "markerLat": 38.72
+    "markerLat": 38.72,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Portugal",
+        "https://en.wikipedia.org/wiki/Flag_of_Portugal"
+      ]
+    }
   },
   {
     "iso2": "PR",
@@ -10284,7 +11646,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/pr.svg",
     "markerLng": -66.12,
-    "markerLat": 18.47
+    "markerLat": 18.47,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Puerto_Rico"
+      ]
+    }
   },
   {
     "iso2": "QA",
@@ -10340,7 +11709,14 @@
     "startOfWeek": "sunday",
     "flagPath": "/flags/qa.svg",
     "markerLng": 51.53,
-    "markerLat": 25.28
+    "markerLat": 25.28,
+    "flag": {
+      "aspectRatio": "25:6",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Qatar"
+      ]
+    }
   },
   {
     "iso2": "CG",
@@ -10401,7 +11777,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/cg.svg",
     "markerLng": 15.28,
-    "markerLat": -4.25
+    "markerLat": -4.25,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Republic_of_the_Congo"
+      ]
+    }
   },
   {
     "iso2": "RE",
@@ -10453,7 +11836,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/re.svg",
     "markerLng": 55.45,
-    "markerLat": -20.88
+    "markerLat": -20.88,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/R%C3%A9union"
+      ]
+    }
   },
   {
     "iso2": "RO",
@@ -10513,7 +11903,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/ro.svg",
     "markerLng": 26.1,
-    "markerLat": 44.43
+    "markerLat": 44.43,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": "The national flag of Romania is a tricolour featuring three equal vertical bands colored blue, yellow and red, with a width to length ratio of 2:3.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Romania",
+        "https://en.wikipedia.org/wiki/Flag_of_Romania"
+      ]
+    }
   },
   {
     "iso2": "RU",
@@ -10596,7 +11994,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/ru.svg",
     "markerLng": 37.6,
-    "markerLat": 55.75
+    "markerLat": 55.75,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": "The national flag of the Russian Federation is a tricolour of three equal horizontal bands: white on the top, blue in the middle, and red on the bottom.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Russia",
+        "https://en.wikipedia.org/wiki/Flag_of_Russia"
+      ]
+    }
   },
   {
     "iso2": "RW",
@@ -10657,7 +12063,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/rw.svg",
     "markerLng": 30.05,
-    "markerLat": -1.95
+    "markerLat": -1.95,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Rwanda"
+      ]
+    }
   },
   {
     "iso2": "BL",
@@ -10711,7 +12124,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/bl.svg",
     "markerLng": -62.85,
-    "markerLat": 17.88
+    "markerLat": 17.88,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Saint-Barth%C3%A9lemy%2C_Morbihan",
+        "https://en.wikipedia.org/wiki/Flag_of_Saint_Barthélemy"
+      ]
+    }
   },
   {
     "iso2": "SH",
@@ -10766,7 +12187,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/sh.svg",
     "markerLng": -5.72,
-    "markerLat": -15.93
+    "markerLat": -15.93,
+    "flag": {
+      "aspectRatio": "2:1",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Saint_Helena%2C_Ascension_and_Tristan_da_Cunha"
+      ]
+    }
   },
   {
     "iso2": "KN",
@@ -10818,7 +12246,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/kn.svg",
     "markerLng": -62.72,
-    "markerLat": 17.3
+    "markerLat": 17.3,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Saint_Kitts_and_Nevis"
+      ]
+    }
   },
   {
     "iso2": "LC",
@@ -10869,7 +12304,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/lc.svg",
     "markerLng": -61,
-    "markerLat": 14
+    "markerLat": 14,
+    "flag": {
+      "aspectRatio": "2:1",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Saint_Lucia"
+      ]
+    }
   },
   {
     "iso2": "MF",
@@ -10926,7 +12368,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/mf.svg",
     "markerLng": -63.08,
-    "markerLat": 18.07
+    "markerLat": 18.07,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Saint-Martin%2C_Bas-Rhin"
+      ]
+    }
   },
   {
     "iso2": "PM",
@@ -10978,7 +12427,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/pm.svg",
     "markerLng": -56.18,
-    "markerLat": 46.77
+    "markerLat": 46.77,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": "While the French overseas collectivity of Saint Pierre and Miquelon has no official flag and flies only the Flag of France, its parent nation, an unofficial flag was designed in 1982 and is often flown in the territory.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Saint_Pierre_and_Miquelon",
+        "https://en.wikipedia.org/wiki/Flag_of_Saint_Pierre_and_Miquelon"
+      ]
+    }
   },
   {
     "iso2": "VC",
@@ -11029,7 +12486,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/vc.svg",
     "markerLng": -61.22,
-    "markerLat": 13.13
+    "markerLat": 13.13,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Saint_Vincent_and_the_Grenadines"
+      ]
+    }
   },
   {
     "iso2": "WS",
@@ -11083,7 +12547,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/ws.svg",
     "markerLng": -171.77,
-    "markerLat": -13.82
+    "markerLat": -13.82,
+    "flag": {
+      "aspectRatio": "2:1",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Samoa"
+      ]
+    }
   },
   {
     "iso2": "SM",
@@ -11138,7 +12609,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/sm.svg",
     "markerLng": 12.45,
-    "markerLat": 43.94
+    "markerLat": 43.94,
+    "flag": {
+      "aspectRatio": "4:3",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/San_Marino"
+      ]
+    }
   },
   {
     "iso2": "ST",
@@ -11192,7 +12670,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/st.svg",
     "markerLng": 6.73,
-    "markerLat": 0.34
+    "markerLat": 0.34,
+    "flag": {
+      "aspectRatio": "2:1",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe"
+      ]
+    }
   },
   {
     "iso2": "SA",
@@ -11255,7 +12740,15 @@
     "startOfWeek": "sunday",
     "flagPath": "/flags/sa.svg",
     "markerLng": 46.7,
-    "markerLat": 24.65
+    "markerLat": 24.65,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": "The national flag of Saudi Arabia is a green background with Arabic inscription and a sword in white.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Saudi_Arabia",
+        "https://en.wikipedia.org/wiki/Flag_of_Saudi_Arabia"
+      ]
+    }
   },
   {
     "iso2": "SN",
@@ -11314,7 +12807,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/sn.svg",
     "markerLng": -17.63,
-    "markerLat": 14.73
+    "markerLat": 14.73,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": "Adopted in 1960 to replace the flag of the Mali Federation, it has been the flag of the Republic of Senegal since the country gained independence that year.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Senegal",
+        "https://en.wikipedia.org/wiki/Flag_of_Senegal"
+      ]
+    }
   },
   {
     "iso2": "RS",
@@ -11379,7 +12880,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/rs.svg",
     "markerLng": 20.5,
-    "markerLat": 44.83
+    "markerLat": 44.83,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Serbia"
+      ]
+    }
   },
   {
     "iso2": "SC",
@@ -11435,7 +12943,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/sc.svg",
     "markerLng": 55.45,
-    "markerLat": -4.62
+    "markerLat": -4.62,
+    "flag": {
+      "aspectRatio": "2:1",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Seychelles"
+      ]
+    }
   },
   {
     "iso2": "SL",
@@ -11490,7 +13005,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/sl.svg",
     "markerLng": -13.23,
-    "markerLat": 8.48
+    "markerLat": 8.48,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sierra_Leone"
+      ]
+    }
   },
   {
     "iso2": "SG",
@@ -11549,7 +13071,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/sg.svg",
     "markerLng": 103.85,
-    "markerLat": 1.28
+    "markerLat": 1.28,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Singapore"
+      ]
+    }
   },
   {
     "iso2": "SX",
@@ -11605,7 +13134,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/sx.svg",
     "markerLng": -63.03,
-    "markerLat": 18.02
+    "markerLat": 18.02,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sint_Maarten"
+      ]
+    }
   },
   {
     "iso2": "SK",
@@ -11664,7 +13200,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/sk.svg",
     "markerLng": 17.12,
-    "markerLat": 48.15
+    "markerLat": 48.15,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Slovakia",
+        "https://en.wikipedia.org/wiki/Flag_of_Slovakia"
+      ]
+    }
   },
   {
     "iso2": "SI",
@@ -11722,7 +13266,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/si.svg",
     "markerLng": 14.52,
-    "markerLat": 46.05
+    "markerLat": 46.05,
+    "flag": {
+      "aspectRatio": "2:1",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Slovenia"
+      ]
+    }
   },
   {
     "iso2": "SB",
@@ -11773,7 +13324,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/sb.svg",
     "markerLng": 159.95,
-    "markerLat": -9.43
+    "markerLat": -9.43,
+    "flag": {
+      "aspectRatio": "2:1",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Solomon_Islands"
+      ]
+    }
   },
   {
     "iso2": "SO",
@@ -11833,7 +13391,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/so.svg",
     "markerLng": 45.33,
-    "markerLat": 2.07
+    "markerLat": 2.07,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Somalia"
+      ]
+    }
   },
   {
     "iso2": "ZA",
@@ -11904,7 +13469,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/za.svg",
     "markerLng": 28.22,
-    "markerLat": -25.7
+    "markerLat": -25.7,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/South_Africa"
+      ]
+    }
   },
   {
     "iso2": "GS",
@@ -11956,7 +13528,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/gs.svg",
     "markerLng": -36.5,
-    "markerLat": -54.28
+    "markerLat": -54.28,
+    "flag": {
+      "aspectRatio": "2:1",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/South_Georgia_and_the_South_Sandwich_Islands",
+        "https://en.wikipedia.org/wiki/Flag_of_South_Georgia_and_the_South_Sandwich_Islands"
+      ]
+    }
   },
   {
     "iso2": "KR",
@@ -12014,7 +13594,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/kr.svg",
     "markerLng": 126.98,
-    "markerLat": 37.55
+    "markerLat": 37.55,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/South_Korea"
+      ]
+    }
   },
   {
     "iso2": "SS",
@@ -12072,7 +13659,14 @@
     "startOfWeek": "sunday",
     "flagPath": "/flags/ss.svg",
     "markerLng": 31.62,
-    "markerLat": 4.85
+    "markerLat": 4.85,
+    "flag": {
+      "aspectRatio": "2:1",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/South_Sudan"
+      ]
+    }
   },
   {
     "iso2": "ES",
@@ -12135,7 +13729,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/es.svg",
     "markerLng": -3.68,
-    "markerLat": 40.4
+    "markerLat": 40.4,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Spain"
+      ]
+    }
   },
   {
     "iso2": "LK",
@@ -12191,7 +13792,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/lk.svg",
     "markerLng": 79.9,
-    "markerLat": 6.89
+    "markerLat": 6.89,
+    "flag": {
+      "aspectRatio": "2:1",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sri_Lanka",
+        "https://en.wikipedia.org/wiki/Flag_of_Sri_Lanka"
+      ]
+    }
   },
   {
     "iso2": "SD",
@@ -12253,7 +13862,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/sd.svg",
     "markerLng": 32.53,
-    "markerLat": 15.6
+    "markerLat": 15.6,
+    "flag": {
+      "aspectRatio": "2:1",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sudan"
+      ]
+    }
   },
   {
     "iso2": "SR",
@@ -12312,7 +13928,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/sr.svg",
     "markerLng": -55.17,
-    "markerLat": 5.83
+    "markerLat": 5.83,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": "The flag of Suriname was legally adopted on 25 November 1975, upon the independence of Suriname from the Netherlands.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Suriname",
+        "https://en.wikipedia.org/wiki/Flag_of_Suriname"
+      ]
+    }
   },
   {
     "iso2": "SJ",
@@ -12364,7 +13988,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/sj.svg",
     "markerLng": 15.63,
-    "markerLat": 78.22
+    "markerLat": 78.22,
+    "flag": {
+      "aspectRatio": "11:8",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Svalbard_and_Jan_Mayen"
+      ]
+    }
   },
   {
     "iso2": "SE",
@@ -12420,7 +14051,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/se.svg",
     "markerLng": 18.05,
-    "markerLat": 59.33
+    "markerLat": 59.33,
+    "flag": {
+      "aspectRatio": "8:5",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sweden"
+      ]
+    }
   },
   {
     "iso2": "CH",
@@ -12485,7 +14123,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/ch.svg",
     "markerLng": 7.47,
-    "markerLat": 46.92
+    "markerLat": 46.92,
+    "flag": {
+      "aspectRatio": "1:1",
+      "notableHistory": "The national flag of Switzerland displays a white Greek cross in the center of a square red field.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Switzerland",
+        "https://en.wikipedia.org/wiki/Flag_of_Switzerland"
+      ]
+    }
   },
   {
     "iso2": "SY",
@@ -12545,7 +14191,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/sy.svg",
     "markerLng": 36.3,
-    "markerLat": 33.5
+    "markerLat": 33.5,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Syria"
+      ]
+    }
   },
   {
     "iso2": "TW",
@@ -12603,7 +14256,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/tw.svg",
     "markerLng": 121.52,
-    "markerLat": 25.03
+    "markerLat": 25.03,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Taiwan"
+      ]
+    }
   },
   {
     "iso2": "TJ",
@@ -12664,7 +14324,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/tj.svg",
     "markerLng": 68.77,
-    "markerLat": 38.55
+    "markerLat": 38.55,
+    "flag": {
+      "aspectRatio": "2:1",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Tajikistan"
+      ]
+    }
   },
   {
     "iso2": "TZ",
@@ -12728,7 +14395,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/tz.svg",
     "markerLng": 35.75,
-    "markerLat": -6.16
+    "markerLat": -6.16,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Tanzania"
+      ]
+    }
   },
   {
     "iso2": "TH",
@@ -12790,7 +14464,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/th.svg",
     "markerLng": 100.52,
-    "markerLat": 13.75
+    "markerLat": 13.75,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": "The design was adopted on 28 September 1917, according to the royal decree issued by Rama VI.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Thailand",
+        "https://en.wikipedia.org/wiki/Flag_of_Thailand"
+      ]
+    }
   },
   {
     "iso2": "TL",
@@ -12850,7 +14532,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/tl.svg",
     "markerLng": 125.6,
-    "markerLat": -8.58
+    "markerLat": -8.58,
+    "flag": {
+      "aspectRatio": "2:1",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Timor-Leste"
+      ]
+    }
   },
   {
     "iso2": "TG",
@@ -12908,7 +14597,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/tg.svg",
     "markerLng": 1.21,
-    "markerLat": 6.14
+    "markerLat": 6.14,
+    "flag": {
+      "aspectRatio": "101127:62500",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Togo"
+      ]
+    }
   },
   {
     "iso2": "TK",
@@ -12961,7 +14657,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/tk.svg",
     "markerLng": -171.22,
-    "markerLat": -9.38
+    "markerLat": -9.38,
+    "flag": {
+      "aspectRatio": "2:1",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Tokelau"
+      ]
+    }
   },
   {
     "iso2": "TO",
@@ -13013,7 +14716,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/to.svg",
     "markerLng": -175.2,
-    "markerLat": -21.13
+    "markerLat": -21.13,
+    "flag": {
+      "aspectRatio": "2:1",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Tonga"
+      ]
+    }
   },
   {
     "iso2": "TT",
@@ -13065,7 +14775,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/tt.svg",
     "markerLng": -61.52,
-    "markerLat": 10.65
+    "markerLat": 10.65,
+    "flag": {
+      "aspectRatio": "5:3",
+      "notableHistory": "The flag of Trinidad and Tobago was adopted upon independence from the United Kingdom on 31 August 1962.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Trinidad_and_Tobago",
+        "https://en.wikipedia.org/wiki/Flag_of_Trinidad_and_Tobago"
+      ]
+    }
   },
   {
     "iso2": "TN",
@@ -13121,7 +14839,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/tn.svg",
     "markerLng": 10.18,
-    "markerLat": 36.8
+    "markerLat": 36.8,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Tunisia"
+      ]
+    }
   },
   {
     "iso2": "TR",
@@ -13185,7 +14910,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/tr.svg",
     "markerLng": 32.87,
-    "markerLat": 39.93
+    "markerLat": 39.93,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Turkey"
+      ]
+    }
   },
   {
     "iso2": "TM",
@@ -13242,7 +14974,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/tm.svg",
     "markerLng": 58.38,
-    "markerLat": 37.95
+    "markerLat": 37.95,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Turkmenistan"
+      ]
+    }
   },
   {
     "iso2": "TC",
@@ -13293,7 +15032,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/tc.svg",
     "markerLng": -71.14,
-    "markerLat": 21.46
+    "markerLat": 21.46,
+    "flag": {
+      "aspectRatio": "2:1",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Turks_and_Caicos_Islands"
+      ]
+    }
   },
   {
     "iso2": "TV",
@@ -13346,7 +15092,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/tv.svg",
     "markerLng": 179.22,
-    "markerLat": -8.52
+    "markerLat": -8.52,
+    "flag": {
+      "aspectRatio": "2:1",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Tuvalu",
+        "https://en.wikipedia.org/wiki/Flag_of_Tuvalu"
+      ]
+    }
   },
   {
     "iso2": "UG",
@@ -13406,7 +15160,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/ug.svg",
     "markerLng": 32.55,
-    "markerLat": 0.32
+    "markerLat": 0.32,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": "The national flag of Uganda was adopted on 9 October 1962, the day that the nation became independent from the British Empire.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Uganda",
+        "https://en.wikipedia.org/wiki/Flag_of_Uganda"
+      ]
+    }
   },
   {
     "iso2": "UA",
@@ -13467,7 +15229,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/ua.svg",
     "markerLng": 30.52,
-    "markerLat": 50.43
+    "markerLat": 50.43,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ukraine"
+      ]
+    }
   },
   {
     "iso2": "AE",
@@ -13524,7 +15293,15 @@
     "startOfWeek": "sunday",
     "flagPath": "/flags/ae.svg",
     "markerLng": 54.37,
-    "markerLat": 24.47
+    "markerLat": 24.47,
+    "flag": {
+      "aspectRatio": "2:1",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/United_Arab_Emirates",
+        "https://en.wikipedia.org/wiki/Flag_of_United_Arab_Emirates"
+      ]
+    }
   },
   {
     "iso2": "GB",
@@ -13587,7 +15364,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/gb.svg",
     "markerLng": -0.08,
-    "markerLat": 51.5
+    "markerLat": 51.5,
+    "flag": {
+      "aspectRatio": "2:1",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/United_Kingdom"
+      ]
+    }
   },
   {
     "iso2": "US",
@@ -13969,7 +15753,14 @@
     "startOfWeek": "sunday",
     "flagPath": "/flags/us.svg",
     "markerLng": -77.05,
-    "markerLat": 38.89
+    "markerLat": 38.89,
+    "flag": {
+      "aspectRatio": "19:10",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/United_States"
+      ]
+    }
   },
   {
     "iso2": "UM",
@@ -14022,7 +15813,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/um.svg",
     "markerLng": -5.368621500000003,
-    "markerLat": 13.9132755
+    "markerLat": 13.9132755,
+    "flag": {
+      "aspectRatio": "19:10",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/United_States_Minor_Outlying_Islands"
+      ]
+    }
   },
   {
     "iso2": "VI",
@@ -14074,7 +15872,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/vi.svg",
     "markerLng": -64.93,
-    "markerLat": 18.35
+    "markerLat": 18.35,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": "The flag of the United States Virgin Islands was adopted on May 17, 1921.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/United_States_Virgin_Islands",
+        "https://en.wikipedia.org/wiki/Flag_of_the_United_States_Virgin_Islands"
+      ]
+    }
   },
   {
     "iso2": "UY",
@@ -14130,7 +15936,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/uy.svg",
     "markerLng": -56.17,
-    "markerLat": -34.85
+    "markerLat": -34.85,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Uruguay"
+      ]
+    }
   },
   {
     "iso2": "UZ",
@@ -14191,7 +16004,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/uz.svg",
     "markerLng": 69.25,
-    "markerLat": 41.32
+    "markerLat": 41.32,
+    "flag": {
+      "aspectRatio": "2:1",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Uzbekistan"
+      ]
+    }
   },
   {
     "iso2": "VU",
@@ -14247,7 +16067,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/vu.svg",
     "markerLng": 168.32,
-    "markerLat": -17.73
+    "markerLat": -17.73,
+    "flag": {
+      "aspectRatio": "5:3",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Vanuatu"
+      ]
+    }
   },
   {
     "iso2": "VA",
@@ -14305,7 +16132,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/va.svg",
     "markerLng": 12.45,
-    "markerLat": 41.9
+    "markerLat": 41.9,
+    "flag": {
+      "aspectRatio": "1:1",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Vatican_City"
+      ]
+    }
   },
   {
     "iso2": "VE",
@@ -14363,7 +16197,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/ve.svg",
     "markerLng": -66.87,
-    "markerLat": 10.48
+    "markerLat": 10.48,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": "The current national flag of Venezuela was introduced in 2006.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Venezuela",
+        "https://en.wikipedia.org/wiki/Flag_of_Venezuela"
+      ]
+    }
   },
   {
     "iso2": "VN",
@@ -14421,7 +16263,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/vn.svg",
     "markerLng": 105.85,
-    "markerLat": 21.03
+    "markerLat": 21.03,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Vietnam"
+      ]
+    }
   },
   {
     "iso2": "WF",
@@ -14474,7 +16323,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/wf.svg",
     "markerLng": -171.93,
-    "markerLat": -13.95
+    "markerLat": -13.95,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Wallis_and_Futuna"
+      ]
+    }
   },
   {
     "iso2": "EH",
@@ -14535,7 +16391,14 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/eh.svg",
     "markerLng": 27.14,
-    "markerLat": -13.28
+    "markerLat": -13.28,
+    "flag": {
+      "aspectRatio": "2:1",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Western_Sahara"
+      ]
+    }
   },
   {
     "iso2": "YE",
@@ -14591,7 +16454,15 @@
     "startOfWeek": "sunday",
     "flagPath": "/flags/ye.svg",
     "markerLng": 44.19,
-    "markerLat": 15.37
+    "markerLat": 15.37,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": "It was adopted on 22 May 1990, the day of the Yemeni unification.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Yemen",
+        "https://en.wikipedia.org/wiki/Flag_of_Yemen"
+      ]
+    }
   },
   {
     "iso2": "ZM",
@@ -14652,7 +16523,15 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/zm.svg",
     "markerLng": 28.28,
-    "markerLat": -15.42
+    "markerLat": -15.42,
+    "flag": {
+      "aspectRatio": "3:2",
+      "notableHistory": "The national flag of Zambia was adopted upon independence on 24 October 1964, by the first Republican president, Dr.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Zambia",
+        "https://en.wikipedia.org/wiki/Flag_of_Zambia"
+      ]
+    }
   },
   {
     "iso2": "ZW",
@@ -14723,6 +16602,13 @@
     "startOfWeek": "monday",
     "flagPath": "/flags/zw.svg",
     "markerLng": 31.03,
-    "markerLat": -17.82
+    "markerLat": -17.82,
+    "flag": {
+      "aspectRatio": "2:1",
+      "notableHistory": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Zimbabwe"
+      ]
+    }
   }
 ]

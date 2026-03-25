@@ -7,9 +7,9 @@ import { CountryOverlay } from "@/src/components/CountryOverlay";
 import { SettingsOverlay } from "@/src/components/SettingsOverlay";
 import { WorldMap } from "@/src/components/WorldMap";
 import { usePersistentSettings } from "@/src/hooks/usePersistentSettings";
-import type { CountryExplorerProps } from "@/src/types/country-explorer";
+import type { WorldFlagsProps } from "@/src/types/world-flags";
 
-export function CountryExplorer({ accessToken }: CountryExplorerProps) {
+export function WorldFlags({ accessToken }: WorldFlagsProps) {
   const [selectedCountry, setSelectedCountry] = useState<Country | null>(null);
   const [settingsOpen, setSettingsOpen] = useState(false);
   const { settings, setSettings } = usePersistentSettings();

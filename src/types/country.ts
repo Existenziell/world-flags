@@ -1,3 +1,9 @@
+export type FlagMetadata = {
+  aspectRatio: string | null;
+  notableHistory: string | null;
+  sources: string[];
+};
+
 export type Country = {
   iso2: string;
   iso3: string;
@@ -29,6 +35,7 @@ export type Country = {
   landlocked: boolean | null;
   startOfWeek: string | null;
   flagPath: string;
+  flag: FlagMetadata;
   markerLng: number | null;
   markerLat: number | null;
 };

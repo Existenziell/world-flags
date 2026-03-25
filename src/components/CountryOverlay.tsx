@@ -96,6 +96,16 @@ export function CountryOverlay({ country, onClose }: CountryOverlayProps) {
           </dl>
         </section>
 
+        <section className="rounded-xl bg-zinc-50 p-3 dark:bg-white/5">
+          <h3 className="mb-1 text-xs font-semibold uppercase tracking-wide text-zinc-500 dark:text-zinc-300">
+            Flag details
+          </h3>
+          <dl>
+            <StatRow label="Format" value={country.flag.aspectRatio ?? "N/A"} />
+            <StatRow label="History" value={country.flag.notableHistory ?? "N/A"} />
+          </dl>
+        </section>
+
         <footer className="flex flex-wrap items-center gap-x-4 gap-y-2 pt-1">
           <a
             href={country.wikipediaUrl}

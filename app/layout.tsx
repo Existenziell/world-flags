@@ -14,8 +14,28 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Mapbox Country Explorer",
-  description: "Fullscreen world map with country overlays and local flags.",
+  title: "World Flags",
+  description: "Fullscreen world map. Test your flag knowledge.",
+  manifest: "/icons/favicon/site.webmanifest",
+  icons: {
+    icon: [
+      { url: "/icons/favicon/favicon.ico" },
+      { url: "/icons/favicon/favicon-32x32.png", sizes: "32x32", type: "image/png" },
+      { url: "/icons/favicon/favicon-16x16.png", sizes: "16x16", type: "image/png" },
+      {
+        url: "/icons/favicon/favicon-light.svg",
+        type: "image/svg+xml",
+        media: "(prefers-color-scheme: light)",
+      },
+      {
+        url: "/icons/favicon/favicon-dark.svg",
+        type: "image/svg+xml",
+        media: "(prefers-color-scheme: dark)",
+      },
+    ],
+    apple: [{ url: "/icons/favicon/apple-touch-icon.png", sizes: "180x180", type: "image/png" }],
+    shortcut: ["/icons/favicon/favicon.ico"],
+  },
 };
 
 export default function RootLayout({

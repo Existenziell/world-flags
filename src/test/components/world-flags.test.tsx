@@ -1,7 +1,7 @@
 import { fireEvent, render, screen } from "@testing-library/react";
 import type { ImgHTMLAttributes } from "react";
 import { DEFAULT_MAP_SETTINGS } from "@/src/constants";
-import { CountryExplorer } from "@/src/components/CountryExplorer";
+import { WorldFlags } from "@/src/components/WorldFlags";
 import type { Country } from "@/src/types/country";
 
 const { mockUsePersistentSettings, mockSetSettings } = vi.hoisted(() => ({
@@ -40,6 +40,11 @@ const testCountry: Country = {
   landlocked: false,
   startOfWeek: "monday",
   flagPath: "/flags/de.svg",
+  flag: {
+    aspectRatio: "3:2",
+    notableHistory: null,
+    sources: ["https://en.wikipedia.org/wiki/Flag_of_Germany"],
+  },
   markerLng: 10,
   markerLat: 51,
 };
@@ -99,7 +104,7 @@ vi.mock("@/src/components/SettingsOverlay", () => ({
   ),
 }));
 
-describe("CountryExplorer", () => {
+describe("WorldFlags", () => {
   beforeEach(() => {
     vi.clearAllMocks();
     mockUsePersistentSettings.mockReturnValue({
@@ -110,7 +115,7 @@ describe("CountryExplorer", () => {
   });
 
   it("toggles settings overlay from settings button", () => {
-    render(<CountryExplorer accessToken="token" />);
+    render(<WorldFlags accessToken="token" />);
 
     expect(screen.queryByText("settings-overlay")).not.toBeInTheDocument();
     fireEvent.click(screen.getByRole("button", { name: "Open settings" }));
@@ -120,7 +125,7 @@ describe("CountryExplorer", () => {
   });
 
   it("shows selected country overlay and closes it", () => {
-    render(<CountryExplorer accessToken="token" />);
+    render(<WorldFlags accessToken="token" />);
 
     fireEvent.click(screen.getByRole("button", { name: "select-country" }));
     expect(screen.getByText("overlay:Germany")).toBeInTheDocument();

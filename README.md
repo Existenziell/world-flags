@@ -1,4 +1,4 @@
-# Mapbox Country Explorer
+# World Flags
 
 Fullscreen Next.js + TypeScript app that renders a world map with Mapbox, shows country overlays on click, and serves local flag files.
 

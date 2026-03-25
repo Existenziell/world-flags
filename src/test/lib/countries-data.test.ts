@@ -12,7 +12,25 @@ describe("countries dataset", () => {
       iso3: expect.any(String),
       name: expect.any(String),
       flagPath: expect.stringMatching(/^\/flags\/[a-z]{2}\.svg$/),
+      flag: {
+        aspectRatio: expect.anything(),
+        notableHistory: expect.anything(),
+        sources: expect.any(Array),
+      },
     });
+  });
+
+  it("contains valid flag metadata", () => {
+    const ratioPattern = /^\d+:\d+$/;
+
+    for (const country of countries) {
+      expect(country.flag).toBeTruthy();
+      expect(Array.isArray(country.flag.sources)).toBe(true);
+
+      if (country.flag.aspectRatio !== null) {
+        expect(country.flag.aspectRatio).toMatch(ratioPattern);
+      }
+    }
   });
 
   it("references local flag files that exist", () => {
