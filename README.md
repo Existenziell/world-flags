@@ -1,36 +1,70 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Mapbox Country Explorer
 
-## Getting Started
+Fullscreen Next.js + TypeScript app that renders a world map with Mapbox, shows country overlays on click, and serves local flag files.
 
-First, run the development server:
+## Features
+
+- Fullscreen interactive world map with country click selection.
+- Country overlay with name, ISO codes, population, region, capital, area, and local flag.
+- Top-right settings panel:
+  - Projection: `globe` / `mercator`
+  - Map style: `dark` / `streets` / `satellite`
+  - Theme: `dark` / `light`
+- Settings persist in `localStorage`.
+- Country data + local flags generated via script.
+- Linting and Vitest tests included.
+
+## Requirements
+
+- Node.js 20+
+- npm
+
+## Environment
+
+Create `.env` in the project root:
+
+```bash
+MAPBOX_ACCESS_TOKEN=your_mapbox_access_token
+```
+
+The app reads `MAPBOX_ACCESS_TOKEN` from server-side env and passes it into the client map component.
+
+## Install
+
+```bash
+npm install
+```
+
+## Fetch Country Data + Flags
+
+This script pulls metadata from REST Countries and downloads flags from FlagCDN into `public/flags`.
+
+```bash
+npm run data:fetch
+```
+
+Generated files:
+
+- `src/data/countries.json`
+- `public/flags/*.svg`
+
+## Run Locally
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000).
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Lint and Test
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+```bash
+npm run lint
+npm run test
+```
 
-## Learn More
+Watch mode:
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+```bash
+npm run test:watch
+```
