@@ -13,7 +13,7 @@ import type { CountryOverlayProps, StatRowProps } from "@/src/types/country-over
 
 function StatRow({ label, value }: StatRowProps) {
   return (
-    <div className="grid grid-cols-[8.5rem_1fr] gap-x-3 py-1 text-sm">
+    <div className="grid grid-cols-[8.5rem_1fr] gap-x-3 py-0.5 text-sm">
       <dt className="text-zinc-500 dark:text-zinc-300">{label}</dt>
       <dd className="font-medium text-zinc-900 dark:text-zinc-100">{value}</dd>
     </div>
@@ -22,30 +22,30 @@ function StatRow({ label, value }: StatRowProps) {
 
 export function CountryOverlay({ country, onClose }: CountryOverlayProps) {
   return (
-    <aside className="absolute left-4 top-4 z-30 w-[min(25rem,calc(100vw-2rem))] overflow-hidden rounded-2xl border border-black/10 bg-white/92 text-zinc-900 shadow-2xl backdrop-blur-md dark:border-white/20 dark:bg-zinc-950/85 dark:text-white">
-      <button
-        type="button"
-        onClick={onClose}
-        className="absolute right-3 top-3 z-10 inline-flex h-10 w-10 items-center justify-center rounded-full border border-black/20 bg-white/95 text-lg font-semibold text-zinc-800 shadow-md transition hover:scale-105 hover:bg-white dark:border-white/30 dark:bg-zinc-900/95 dark:text-zinc-100 dark:hover:bg-zinc-800"
-        aria-label="Close country overlay"
-      >
-        ✕
-      </button>
-      <Image
-        src={country.flagPath}
-        alt={`${country.name} flag`}
-        width={1200}
-        height={700}
-        className="block h-auto w-1/2 pt-6 object-contain pl-6"
-        priority
-      />
+    <aside className="absolute left-4 top-4 z-30 max-h-[calc(100vh-2rem)] w-[min(25rem,calc(100vw-2rem))] overflow-x-hidden overflow-y-auto rounded-2xl border border-black/10 bg-white/92 text-zinc-900 shadow-2xl backdrop-blur-md dark:border-white/20 dark:bg-zinc-950/85 dark:text-white">
+      <header className="sticky top-0 z-20 border-b border-black/10 bg-white/95 px-4 pb-4 pt-5 backdrop-blur-md dark:border-white/15 dark:bg-zinc-950/95 sm:px-5">
+        <button
+          type="button"
+          onClick={onClose}
+          className="absolute right-3 top-3 z-10 inline-flex h-10 w-10 items-center justify-center rounded-full border border-black/20 bg-white/95 text-lg font-semibold text-zinc-800 shadow-md transition hover:scale-105 hover:bg-white dark:border-white/30 dark:bg-zinc-900/95 dark:text-zinc-100 dark:hover:bg-zinc-800"
+          aria-label="Close country overlay"
+        >
+          ✕
+        </button>
+        <Image
+          src={country.flagPath}
+          alt={`${country.name} flag`}
+          width={1200}
+          height={700}
+          className="block h-auto w-1/2 object-contain pr-12"
+          priority
+        />
+        <h2 className="mt-3 pr-12 text-3xl font-bold tracking-tight text-zinc-950 dark:text-zinc-50">
+          {country.name}
+        </h2>
+      </header>
 
       <div className="space-y-4 p-4 sm:p-5">
-        <header>
-          <h2 className="text-3xl font-bold tracking-tight text-zinc-950 dark:text-zinc-50">
-            {country.name}
-          </h2>
-        </header>
 
         <section className="rounded-xl bg-zinc-50 p-3 dark:bg-white/5">
           <h3 className="mb-1 text-xs font-semibold uppercase tracking-wide text-zinc-500 dark:text-zinc-300">
