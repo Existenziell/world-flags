@@ -1,6 +1,7 @@
 import { mkdir, readFile, writeFile } from "node:fs/promises";
 import path from "node:path";
 import { getIsoFromFeature } from "../src/lib/iso";
+import { TERRITORY_COLONIZER_BY_ISO2 } from "../src/lib/territory-colonizers";
 
 type RestCountry = {
   cca2?: string;
@@ -64,6 +65,7 @@ type CountryRecord = {
   currencies: string[];
   timezones: string[];
   independent: boolean | null;
+  colonizer: string | null;
   landlocked: boolean | null;
   startOfWeek: string | null;
   flagPath: string;
@@ -596,6 +598,10 @@ function toCountryRecord(
       : [],
     independent:
       typeof country.independent === "boolean" ? country.independent : null,
+    colonizer:
+      typeof country.independent === "boolean" && country.independent === false
+        ? (TERRITORY_COLONIZER_BY_ISO2[iso2] ?? null)
+        : null,
     landlocked: typeof country.landlocked === "boolean" ? country.landlocked : null,
     startOfWeek: country.startOfWeek ?? null,
     flagPath,

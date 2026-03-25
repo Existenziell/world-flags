@@ -32,6 +32,8 @@ export type Country = {
   currencies: string[];
   timezones: string[];
   independent: boolean | null;
+  /** Sovereign or administering power for dependent territories; null if independent or not listed. */
+  colonizer: string | null;
   landlocked: boolean | null;
   startOfWeek: string | null;
   flagPath: string;

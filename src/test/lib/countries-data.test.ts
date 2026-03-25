@@ -11,6 +11,7 @@ describe("countries dataset", () => {
       iso2: expect.any(String),
       iso3: expect.any(String),
       name: expect.any(String),
+      colonizer: null,
       flagPath: expect.stringMatching(/^\/flags\/[a-z]{2}\.svg$/),
       flag: {
         aspectRatio: expect.anything(),

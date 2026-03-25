@@ -54,6 +54,7 @@
       "UTC+04:30"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": true,
     "startOfWeek": "monday",
     "flagPath": "/flags/af.svg",
@@ -116,6 +117,7 @@
       "UTC+02:00"
     ],
     "independent": false,
+    "colonizer": "Finland",
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/ax.svg",
@@ -183,6 +185,7 @@
       "UTC+01:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/al.svg",
@@ -253,6 +256,7 @@
       "UTC+01:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "sunday",
     "flagPath": "/flags/dz.svg",
@@ -316,6 +320,7 @@
       "UTC-11:00"
     ],
     "independent": false,
+    "colonizer": "United States",
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/as.svg",
@@ -380,6 +385,7 @@
       "UTC+01:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": true,
     "startOfWeek": "monday",
     "flagPath": "/flags/ad.svg",
@@ -446,6 +452,7 @@
       "UTC+01:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/ao.svg",
@@ -505,6 +512,7 @@
       "UTC-04:00"
     ],
     "independent": false,
+    "colonizer": "United Kingdom",
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/ai.svg",
@@ -565,6 +573,7 @@
       "UTC+12:00"
     ],
     "independent": false,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/aq.svg",
@@ -624,6 +633,7 @@
       "UTC-04:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/ag.svg",
@@ -692,6 +702,7 @@
       "UTC-03:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/ar.svg",
@@ -759,6 +770,7 @@
       "UTC+04:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": true,
     "startOfWeek": "monday",
     "flagPath": "/flags/am.svg",
@@ -819,6 +831,7 @@
       "UTC-04:00"
     ],
     "independent": false,
+    "colonizer": "Netherlands",
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/aw.svg",
@@ -885,6 +898,7 @@
       "UTC+11:30"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/au.svg",
@@ -955,6 +969,7 @@
       "UTC+01:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": true,
     "startOfWeek": "monday",
     "flagPath": "/flags/at.svg",
@@ -1023,6 +1038,7 @@
       "UTC+04:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": true,
     "startOfWeek": "monday",
     "flagPath": "/flags/az.svg",
@@ -1084,6 +1100,7 @@
       "UTC-05:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/bs.svg",
@@ -1145,6 +1162,7 @@
       "UTC+03:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/bh.svg",
@@ -1209,6 +1227,7 @@
       "UTC+06:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "sunday",
     "flagPath": "/flags/bd.svg",
@@ -1268,6 +1287,7 @@
       "UTC-04:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/bb.svg",
@@ -1338,6 +1358,7 @@
       "UTC+03:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": true,
     "startOfWeek": "monday",
     "flagPath": "/flags/by.svg",
@@ -1412,6 +1433,7 @@
       "UTC+01:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/be.svg",
@@ -1476,6 +1498,7 @@
       "UTC-06:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/bz.svg",
@@ -1542,6 +1565,7 @@
       "UTC+01:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/bj.svg",
@@ -1604,6 +1628,7 @@
       "UTC-04:00"
     ],
     "independent": false,
+    "colonizer": "United Kingdom",
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/bm.svg",
@@ -1668,6 +1693,7 @@
       "UTC+06:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": true,
     "startOfWeek": "monday",
     "flagPath": "/flags/bt.svg",
@@ -1744,6 +1770,7 @@
       "UTC-04:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": true,
     "startOfWeek": "monday",
     "flagPath": "/flags/bo.svg",
@@ -1811,6 +1838,7 @@
       "UTC+01:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/ba.svg",
@@ -1878,6 +1906,7 @@
       "UTC+02:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": true,
     "startOfWeek": "monday",
     "flagPath": "/flags/bw.svg",
@@ -1937,6 +1966,7 @@
       "UTC+01:00"
     ],
     "independent": false,
+    "colonizer": "Norway",
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/bv.svg",
@@ -2013,6 +2043,7 @@
       "UTC-02:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "sunday",
     "flagPath": "/flags/br.svg",
@@ -2072,6 +2103,7 @@
       "UTC+06:00"
     ],
     "independent": false,
+    "colonizer": "United Kingdom",
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/io.svg",
@@ -2132,6 +2164,7 @@
       "UTC-04:00"
     ],
     "independent": false,
+    "colonizer": "United Kingdom",
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/vg.svg",
@@ -2197,6 +2230,7 @@
       "UTC+08:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/bn.svg",
@@ -2264,6 +2298,7 @@
       "UTC+02:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/bg.svg",
@@ -2330,6 +2365,7 @@
       "UTC"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": true,
     "startOfWeek": "monday",
     "flagPath": "/flags/bf.svg",
@@ -2397,6 +2433,7 @@
       "UTC+02:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": true,
     "startOfWeek": "monday",
     "flagPath": "/flags/bi.svg",
@@ -2462,6 +2499,7 @@
       "UTC+07:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/kh.svg",
@@ -2531,6 +2569,7 @@
       "UTC+01:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/cm.svg",
@@ -2596,6 +2635,7 @@
       "UTC-03:30"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "sunday",
     "flagPath": "/flags/ca.svg",
@@ -2657,6 +2697,7 @@
       "UTC-01:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/cv.svg",
@@ -2719,6 +2760,7 @@
       "UTC-04:00"
     ],
     "independent": false,
+    "colonizer": "Netherlands",
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/bq.svg",
@@ -2778,6 +2820,7 @@
       "UTC-05:00"
     ],
     "independent": false,
+    "colonizer": "United Kingdom",
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/ky.svg",
@@ -2847,6 +2890,7 @@
       "UTC+01:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": true,
     "startOfWeek": "monday",
     "flagPath": "/flags/cf.svg",
@@ -2917,6 +2961,7 @@
       "UTC+01:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": true,
     "startOfWeek": "monday",
     "flagPath": "/flags/td.svg",
@@ -2983,6 +3028,7 @@
       "UTC-04:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/cl.svg",
@@ -3069,6 +3115,7 @@
       "UTC+08:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/cn.svg",
@@ -3129,6 +3176,7 @@
       "UTC+07:00"
     ],
     "independent": false,
+    "colonizer": "Australia",
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/cx.svg",
@@ -3190,6 +3238,7 @@
       "UTC+06:30"
     ],
     "independent": false,
+    "colonizer": "Australia",
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/cc.svg",
@@ -3257,6 +3306,7 @@
       "UTC-05:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/co.svg",
@@ -3322,6 +3372,7 @@
       "UTC+03:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/km.svg",
@@ -3384,6 +3435,7 @@
       "UTC-10:00"
     ],
     "independent": false,
+    "colonizer": "New Zealand",
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/ck.svg",
@@ -3448,6 +3500,7 @@
       "UTC-06:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/cr.svg",
@@ -3516,6 +3569,7 @@
       "UTC+01:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/hr.svg",
@@ -3578,6 +3632,7 @@
       "UTC-05:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/cu.svg",
@@ -3644,6 +3699,7 @@
       "UTC-04:00"
     ],
     "independent": false,
+    "colonizer": "Netherlands",
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/cw.svg",
@@ -3709,6 +3765,7 @@
       "UTC+02:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/cy.svg",
@@ -3776,6 +3833,7 @@
       "UTC+01:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": true,
     "startOfWeek": "monday",
     "flagPath": "/flags/cz.svg",
@@ -3844,6 +3902,7 @@
       "UTC+01:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/dk.svg",
@@ -3914,6 +3973,7 @@
       "UTC+03:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/dj.svg",
@@ -3976,6 +4036,7 @@
       "UTC-04:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/dm.svg",
@@ -4039,6 +4100,7 @@
       "UTC-04:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/do.svg",
@@ -4117,6 +4179,7 @@
       "UTC+02:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/cd.svg",
@@ -4182,6 +4245,7 @@
       "UTC-05:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/ec.svg",
@@ -4248,6 +4312,7 @@
       "UTC+02:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "sunday",
     "flagPath": "/flags/eg.svg",
@@ -4312,6 +4377,7 @@
       "UTC-06:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/sv.svg",
@@ -4380,6 +4446,7 @@
       "UTC+01:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/gq.svg",
@@ -4450,6 +4517,7 @@
       "UTC+03:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/er.svg",
@@ -4515,6 +4583,7 @@
       "UTC+02:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/ee.svg",
@@ -4585,6 +4654,7 @@
       "UTC+02:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": true,
     "startOfWeek": "monday",
     "flagPath": "/flags/sz.svg",
@@ -4654,6 +4724,7 @@
       "UTC+03:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": true,
     "startOfWeek": "monday",
     "flagPath": "/flags/et.svg",
@@ -4715,6 +4786,7 @@
       "UTC-04:00"
     ],
     "independent": false,
+    "colonizer": "United Kingdom",
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/fk.svg",
@@ -4778,6 +4850,7 @@
       "UTC+00:00"
     ],
     "independent": false,
+    "colonizer": "Denmark",
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/fo.svg",
@@ -4843,6 +4916,7 @@
       "UTC+12:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/fj.svg",
@@ -4911,6 +4985,7 @@
       "UTC+02:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/fi.svg",
@@ -4994,6 +5069,7 @@
       "UTC+12:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/fr.svg",
@@ -5058,6 +5134,7 @@
       "UTC-03:00"
     ],
     "independent": false,
+    "colonizer": "France",
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/gf.svg",
@@ -5122,6 +5199,7 @@
       "UTC-09:00"
     ],
     "independent": false,
+    "colonizer": "France",
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/pf.svg",
@@ -5182,6 +5260,7 @@
       "UTC+05:00"
     ],
     "independent": false,
+    "colonizer": "France",
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/tf.svg",
@@ -5247,6 +5326,7 @@
       "UTC+01:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/ga.svg",
@@ -5309,6 +5389,7 @@
       "UTC+00:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/gm.svg",
@@ -5374,6 +5455,7 @@
       "UTC+04:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/ge.svg",
@@ -5445,6 +5527,7 @@
       "UTC+01:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/de.svg",
@@ -5508,6 +5591,7 @@
       "UTC"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/gh.svg",
@@ -5569,6 +5653,7 @@
       "UTC+01:00"
     ],
     "independent": false,
+    "colonizer": "United Kingdom",
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/gi.svg",
@@ -5636,6 +5721,7 @@
       "UTC+02:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/gr.svg",
@@ -5699,6 +5785,7 @@
       "UTC+00:00"
     ],
     "independent": false,
+    "colonizer": "Denmark",
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/gl.svg",
@@ -5758,6 +5845,7 @@
       "UTC-04:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/gd.svg",
@@ -5818,6 +5906,7 @@
       "UTC-04:00"
     ],
     "independent": false,
+    "colonizer": "France",
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/gp.svg",
@@ -5880,6 +5969,7 @@
       "UTC+10:00"
     ],
     "independent": false,
+    "colonizer": "United States",
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/gu.svg",
@@ -5944,6 +6034,7 @@
       "UTC-06:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/gt.svg",
@@ -6008,6 +6099,7 @@
       "UTC+00:00"
     ],
     "independent": false,
+    "colonizer": "United Kingdom",
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/gg.svg",
@@ -6076,6 +6168,7 @@
       "UTC"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/gn.svg",
@@ -6141,6 +6234,7 @@
       "UTC"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/gw.svg",
@@ -6205,6 +6299,7 @@
       "UTC-04:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/gy.svg",
@@ -6270,6 +6365,7 @@
       "UTC-05:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/ht.svg",
@@ -6326,6 +6422,7 @@
       "UTC+05:00"
     ],
     "independent": false,
+    "colonizer": "Australia",
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/hm.svg",
@@ -6390,6 +6487,7 @@
       "UTC-06:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/hn.svg",
@@ -6452,6 +6550,7 @@
       "UTC+08:00"
     ],
     "independent": false,
+    "colonizer": "China",
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/hk.svg",
@@ -6518,6 +6617,7 @@
       "UTC+01:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": true,
     "startOfWeek": "monday",
     "flagPath": "/flags/hu.svg",
@@ -6580,6 +6680,7 @@
       "UTC"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/is.svg",
@@ -6651,6 +6752,7 @@
       "UTC+05:30"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/in.svg",
@@ -6717,6 +6819,7 @@
       "UTC+09:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/id.svg",
@@ -6787,6 +6890,7 @@
       "UTC+03:30"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "saturday",
     "flagPath": "/flags/ir.svg",
@@ -6856,6 +6960,7 @@
       "UTC+03:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "sunday",
     "flagPath": "/flags/iq.svg",
@@ -6921,6 +7026,7 @@
       "UTC"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/ie.svg",
@@ -6984,6 +7090,7 @@
       "UTC+00:00"
     ],
     "independent": false,
+    "colonizer": "United Kingdom",
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/im.svg",
@@ -7051,6 +7158,7 @@
       "UTC+02:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "sunday",
     "flagPath": "/flags/il.svg",
@@ -7119,6 +7227,7 @@
       "UTC+01:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/it.svg",
@@ -7187,6 +7296,7 @@
       "UTC"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/ci.svg",
@@ -7248,6 +7358,7 @@
       "UTC-05:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/jm.svg",
@@ -7309,6 +7420,7 @@
       "UTC+09:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/jp.svg",
@@ -7373,6 +7485,7 @@
       "UTC+01:00"
     ],
     "independent": false,
+    "colonizer": "United Kingdom",
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/je.svg",
@@ -7440,6 +7553,7 @@
       "UTC+03:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "sunday",
     "flagPath": "/flags/jo.svg",
@@ -7515,6 +7629,7 @@
       "UTC+06:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": true,
     "startOfWeek": "monday",
     "flagPath": "/flags/kz.svg",
@@ -7583,6 +7698,7 @@
       "UTC+03:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/ke.svg",
@@ -7647,6 +7763,7 @@
       "UTC+14:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/ki.svg",
@@ -7710,6 +7827,7 @@
       "UTC+01:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": true,
     "startOfWeek": "monday",
     "flagPath": "/flags/xk.svg",
@@ -7773,6 +7891,7 @@
       "UTC+03:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "sunday",
     "flagPath": "/flags/kw.svg",
@@ -7841,6 +7960,7 @@
       "UTC+06:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": true,
     "startOfWeek": "monday",
     "flagPath": "/flags/kg.svg",
@@ -7909,6 +8029,7 @@
       "UTC+07:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": true,
     "startOfWeek": "monday",
     "flagPath": "/flags/la.svg",
@@ -7975,6 +8096,7 @@
       "UTC+02:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/lv.svg",
@@ -8039,6 +8161,7 @@
       "UTC+02:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/lb.svg",
@@ -8104,6 +8227,7 @@
       "UTC+02:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": true,
     "startOfWeek": "monday",
     "flagPath": "/flags/ls.svg",
@@ -8167,6 +8291,7 @@
       "UTC"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/lr.svg",
@@ -8234,6 +8359,7 @@
       "UTC+01:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "sunday",
     "flagPath": "/flags/ly.svg",
@@ -8298,6 +8424,7 @@
       "UTC+01:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": true,
     "startOfWeek": "monday",
     "flagPath": "/flags/li.svg",
@@ -8364,6 +8491,7 @@
       "UTC+02:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/lt.svg",
@@ -8432,6 +8560,7 @@
       "UTC+01:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": true,
     "startOfWeek": "monday",
     "flagPath": "/flags/lu.svg",
@@ -8498,6 +8627,7 @@
       "UTC+08:00"
     ],
     "independent": false,
+    "colonizer": "China",
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/mo.svg",
@@ -8561,6 +8691,7 @@
       "UTC+03:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/mg.svg",
@@ -8625,6 +8756,7 @@
       "UTC+02:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": true,
     "startOfWeek": "monday",
     "flagPath": "/flags/mw.svg",
@@ -8689,6 +8821,7 @@
       "UTC+08:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "sunday",
     "flagPath": "/flags/my.svg",
@@ -8751,6 +8884,7 @@
       "UTC+05:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "sunday",
     "flagPath": "/flags/mv.svg",
@@ -8819,6 +8953,7 @@
       "UTC"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": true,
     "startOfWeek": "monday",
     "flagPath": "/flags/ml.svg",
@@ -8880,6 +9015,7 @@
       "UTC+01:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/mt.svg",
@@ -8942,6 +9078,7 @@
       "UTC+12:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/mh.svg",
@@ -9000,6 +9137,7 @@
       "UTC-04:00"
     ],
     "independent": false,
+    "colonizer": "France",
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/mq.svg",
@@ -9065,6 +9203,7 @@
       "UTC"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/mr.svg",
@@ -9127,6 +9266,7 @@
       "UTC+04:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/mu.svg",
@@ -9187,6 +9327,7 @@
       "UTC+03:00"
     ],
     "independent": false,
+    "colonizer": "France",
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/yt.svg",
@@ -9255,6 +9396,7 @@
       "UTC-06:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/mx.svg",
@@ -9316,6 +9458,7 @@
       "UTC+11:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/fm.svg",
@@ -9380,6 +9523,7 @@
       "UTC+02:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": true,
     "startOfWeek": "monday",
     "flagPath": "/flags/md.svg",
@@ -9442,6 +9586,7 @@
       "UTC+01:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/mc.svg",
@@ -9504,6 +9649,7 @@
       "UTC+08:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": true,
     "startOfWeek": "monday",
     "flagPath": "/flags/mn.svg",
@@ -9570,6 +9716,7 @@
       "UTC+01:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/me.svg",
@@ -9628,6 +9775,7 @@
       "UTC-04:00"
     ],
     "independent": false,
+    "colonizer": "United Kingdom",
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/ms.svg",
@@ -9694,6 +9842,7 @@
       "UTC"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/ma.svg",
@@ -9761,6 +9910,7 @@
       "UTC+02:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/mz.svg",
@@ -9828,6 +9978,7 @@
       "UTC+06:30"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/mm.svg",
@@ -9903,6 +10054,7 @@
       "UTC+01:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/na.svg",
@@ -9966,6 +10118,7 @@
       "UTC+12:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/nr.svg",
@@ -10029,6 +10182,7 @@
       "UTC+05:45"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": true,
     "startOfWeek": "sunday",
     "flagPath": "/flags/np.svg",
@@ -10093,6 +10247,7 @@
       "UTC+01:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/nl.svg",
@@ -10151,6 +10306,7 @@
       "UTC+11:00"
     ],
     "independent": false,
+    "colonizer": "France",
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/nc.svg",
@@ -10216,6 +10372,7 @@
       "UTC+13:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/nz.svg",
@@ -10279,6 +10436,7 @@
       "UTC-06:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/ni.svg",
@@ -10346,6 +10504,7 @@
       "UTC+01:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": true,
     "startOfWeek": "monday",
     "flagPath": "/flags/ne.svg",
@@ -10412,6 +10571,7 @@
       "UTC+01:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/ng.svg",
@@ -10471,6 +10631,7 @@
       "UTC-11:00"
     ],
     "independent": false,
+    "colonizer": "New Zealand",
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/nu.svg",
@@ -10533,6 +10694,7 @@
       "UTC+11:30"
     ],
     "independent": false,
+    "colonizer": "Australia",
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/nf.svg",
@@ -10602,6 +10764,7 @@
       "UTC+09:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/kp.svg",
@@ -10670,6 +10833,7 @@
       "UTC+01:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": true,
     "startOfWeek": "monday",
     "flagPath": "/flags/mk.svg",
@@ -10732,6 +10896,7 @@
       "UTC+10:00"
     ],
     "independent": false,
+    "colonizer": "United States",
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/mp.svg",
@@ -10801,6 +10966,7 @@
       "UTC+01:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/no.svg",
@@ -10866,6 +11032,7 @@
       "UTC+04:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "sunday",
     "flagPath": "/flags/om.svg",
@@ -10934,6 +11101,7 @@
       "UTC+05:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/pk.svg",
@@ -10995,6 +11163,7 @@
       "UTC+09:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/pw.svg",
@@ -11063,6 +11232,7 @@
       "UTC+02:00"
     ],
     "independent": false,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "sunday",
     "flagPath": "/flags/ps.svg",
@@ -11127,6 +11297,7 @@
       "UTC-05:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/pa.svg",
@@ -11191,6 +11362,7 @@
       "UTC+10:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/pg.svg",
@@ -11257,6 +11429,7 @@
       "UTC-04:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": true,
     "startOfWeek": "monday",
     "flagPath": "/flags/py.svg",
@@ -11326,6 +11499,7 @@
       "UTC-05:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/pe.svg",
@@ -11387,6 +11561,7 @@
       "UTC+08:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/ph.svg",
@@ -11447,6 +11622,7 @@
       "UTC-08:00"
     ],
     "independent": false,
+    "colonizer": "United Kingdom",
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/pn.svg",
@@ -11515,6 +11691,7 @@
       "UTC+01:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/pl.svg",
@@ -11579,6 +11756,7 @@
       "UTC"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/pt.svg",
@@ -11642,6 +11820,7 @@
       "UTC-04:00"
     ],
     "independent": false,
+    "colonizer": "United States",
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/pr.svg",
@@ -11705,6 +11884,7 @@
       "UTC+03:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "sunday",
     "flagPath": "/flags/qa.svg",
@@ -11773,6 +11953,7 @@
       "UTC+01:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/cg.svg",
@@ -11832,6 +12013,7 @@
       "UTC+04:00"
     ],
     "independent": false,
+    "colonizer": "France",
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/re.svg",
@@ -11899,6 +12081,7 @@
       "UTC+02:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/ro.svg",
@@ -11990,6 +12173,7 @@
       "UTC+12:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/ru.svg",
@@ -12059,6 +12243,7 @@
       "UTC+02:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": true,
     "startOfWeek": "monday",
     "flagPath": "/flags/rw.svg",
@@ -12120,6 +12305,7 @@
       "UTC-04:00"
     ],
     "independent": false,
+    "colonizer": "France",
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/bl.svg",
@@ -12183,6 +12369,7 @@
       "UTC+00:00"
     ],
     "independent": false,
+    "colonizer": "United Kingdom",
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/sh.svg",
@@ -12242,6 +12429,7 @@
       "UTC-04:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/kn.svg",
@@ -12300,6 +12488,7 @@
       "UTC-04:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/lc.svg",
@@ -12364,6 +12553,7 @@
       "UTC-04:00"
     ],
     "independent": false,
+    "colonizer": "France",
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/mf.svg",
@@ -12423,6 +12613,7 @@
       "UTC-03:00"
     ],
     "independent": false,
+    "colonizer": "France",
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/pm.svg",
@@ -12482,6 +12673,7 @@
       "UTC-04:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/vc.svg",
@@ -12543,6 +12735,7 @@
       "UTC+13:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/ws.svg",
@@ -12605,6 +12798,7 @@
       "UTC+01:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": true,
     "startOfWeek": "monday",
     "flagPath": "/flags/sm.svg",
@@ -12666,6 +12860,7 @@
       "UTC"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/st.svg",
@@ -12736,6 +12931,7 @@
       "UTC+03:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "sunday",
     "flagPath": "/flags/sa.svg",
@@ -12803,6 +12999,7 @@
       "UTC"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/sn.svg",
@@ -12876,6 +13073,7 @@
       "UTC+01:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": true,
     "startOfWeek": "monday",
     "flagPath": "/flags/rs.svg",
@@ -12939,6 +13137,7 @@
       "UTC+04:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/sc.svg",
@@ -13001,6 +13200,7 @@
       "UTC"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/sl.svg",
@@ -13067,6 +13267,7 @@
       "UTC+08:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/sg.svg",
@@ -13130,6 +13331,7 @@
       "UTC-04:00"
     ],
     "independent": false,
+    "colonizer": "Netherlands",
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/sx.svg",
@@ -13196,6 +13398,7 @@
       "UTC+01:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": true,
     "startOfWeek": "monday",
     "flagPath": "/flags/sk.svg",
@@ -13262,6 +13465,7 @@
       "UTC+01:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/si.svg",
@@ -13320,6 +13524,7 @@
       "UTC+11:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/sb.svg",
@@ -13387,6 +13592,7 @@
       "UTC+03:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/so.svg",
@@ -13465,6 +13671,7 @@
       "UTC+02:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/za.svg",
@@ -13524,6 +13731,7 @@
       "UTC-02:00"
     ],
     "independent": false,
+    "colonizer": "United Kingdom",
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/gs.svg",
@@ -13590,6 +13798,7 @@
       "UTC+09:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/kr.svg",
@@ -13655,6 +13864,7 @@
       "UTC+03:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": true,
     "startOfWeek": "sunday",
     "flagPath": "/flags/ss.svg",
@@ -13725,6 +13935,7 @@
       "UTC+01:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/es.svg",
@@ -13788,6 +13999,7 @@
       "UTC+05:30"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/lk.svg",
@@ -13858,6 +14070,7 @@
       "UTC+03:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/sd.svg",
@@ -13924,6 +14137,7 @@
       "UTC-03:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/sr.svg",
@@ -13984,6 +14198,7 @@
       "UTC+01:00"
     ],
     "independent": false,
+    "colonizer": "Norway",
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/sj.svg",
@@ -14047,6 +14262,7 @@
       "UTC+01:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/se.svg",
@@ -14119,6 +14335,7 @@
       "UTC+01:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": true,
     "startOfWeek": "monday",
     "flagPath": "/flags/ch.svg",
@@ -14187,6 +14404,7 @@
       "UTC+02:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/sy.svg",
@@ -14252,6 +14470,7 @@
       "UTC+08:00"
     ],
     "independent": false,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/tw.svg",
@@ -14320,6 +14539,7 @@
       "UTC+05:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": true,
     "startOfWeek": "monday",
     "flagPath": "/flags/tj.svg",
@@ -14391,6 +14611,7 @@
       "UTC+03:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/tz.svg",
@@ -14460,6 +14681,7 @@
       "UTC+07:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/th.svg",
@@ -14528,6 +14750,7 @@
       "UTC+09:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/tl.svg",
@@ -14593,6 +14816,7 @@
       "UTC"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/tg.svg",
@@ -14653,6 +14877,7 @@
       "UTC+13:00"
     ],
     "independent": false,
+    "colonizer": "New Zealand",
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/tk.svg",
@@ -14712,6 +14937,7 @@
       "UTC+13:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/to.svg",
@@ -14771,6 +14997,7 @@
       "UTC-04:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/tt.svg",
@@ -14835,6 +15062,7 @@
       "UTC+01:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/tn.svg",
@@ -14906,6 +15134,7 @@
       "UTC+03:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/tr.svg",
@@ -14970,6 +15199,7 @@
       "UTC+05:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": true,
     "startOfWeek": "monday",
     "flagPath": "/flags/tm.svg",
@@ -15028,6 +15258,7 @@
       "UTC-04:00"
     ],
     "independent": false,
+    "colonizer": "United Kingdom",
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/tc.svg",
@@ -15088,6 +15319,7 @@
       "UTC+12:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/tv.svg",
@@ -15156,6 +15388,7 @@
       "UTC+03:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": true,
     "startOfWeek": "monday",
     "flagPath": "/flags/ug.svg",
@@ -15225,6 +15458,7 @@
       "UTC+02:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/ua.svg",
@@ -15289,6 +15523,7 @@
       "UTC+04:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "sunday",
     "flagPath": "/flags/ae.svg",
@@ -15360,6 +15595,7 @@
       "UTC+06:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/gb.svg",
@@ -15749,6 +15985,7 @@
       "UTC+12:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "sunday",
     "flagPath": "/flags/us.svg",
@@ -15809,6 +16046,7 @@
       "UTC+12:00"
     ],
     "independent": false,
+    "colonizer": "United States",
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/um.svg",
@@ -15868,6 +16106,7 @@
       "UTC-04:00"
     ],
     "independent": false,
+    "colonizer": "United States",
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/vi.svg",
@@ -15932,6 +16171,7 @@
       "UTC-03:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/uy.svg",
@@ -16000,6 +16240,7 @@
       "UTC+05:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": true,
     "startOfWeek": "monday",
     "flagPath": "/flags/uz.svg",
@@ -16063,6 +16304,7 @@
       "UTC+11:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/vu.svg",
@@ -16128,6 +16370,7 @@
       "UTC+01:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": true,
     "startOfWeek": "monday",
     "flagPath": "/flags/va.svg",
@@ -16193,6 +16436,7 @@
       "UTC-04:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/ve.svg",
@@ -16259,6 +16503,7 @@
       "UTC+07:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/vn.svg",
@@ -16319,6 +16564,7 @@
       "UTC+12:00"
     ],
     "independent": false,
+    "colonizer": "France",
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/wf.svg",
@@ -16387,6 +16633,7 @@
       "UTC+00:00"
     ],
     "independent": false,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "monday",
     "flagPath": "/flags/eh.svg",
@@ -16450,6 +16697,7 @@
       "UTC+03:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": false,
     "startOfWeek": "sunday",
     "flagPath": "/flags/ye.svg",
@@ -16519,6 +16767,7 @@
       "UTC+02:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": true,
     "startOfWeek": "monday",
     "flagPath": "/flags/zm.svg",
@@ -16598,6 +16847,7 @@
       "UTC+02:00"
     ],
     "independent": true,
+    "colonizer": null,
     "landlocked": true,
     "startOfWeek": "monday",
     "flagPath": "/flags/zw.svg",

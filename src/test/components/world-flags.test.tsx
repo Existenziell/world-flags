@@ -57,6 +57,7 @@ const { testCountry, challengeCountries } = vi.hoisted(() => {
     },
     markerLng: 10,
     markerLat: 51,
+    colonizer: null,
   };
 
   const makeCountry = (index: number): Country => {

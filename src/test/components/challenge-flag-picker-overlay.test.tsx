@@ -43,6 +43,7 @@ const country = (iso2: string, name: string): Country =>
     flag: { aspectRatio: null, notableHistory: null, sources: [] },
     markerLng: null,
     markerLat: null,
+    colonizer: null,
   }) as Country;
 
 describe("ChallengeFlagPickerOverlay", () => {

@@ -56,6 +56,9 @@ export function CountryOverlay({ country, onClose }: CountryOverlayProps) {
             <StatRow label="ISO3" value={country.iso3} />
             <StatRow label="Official name" value={country.officialName ?? "N/A"} />
             <StatRow label="Independent" value={formatYesNo(country.independent)} />
+            {country.independent === false ? (
+              <StatRow label="Colonizer" value={country.colonizer ?? "N/A"} />
+            ) : null}
             <StatRow label="Independent since" value={country.independenceDate ?? "N/A"} />
             <StatRow label="Founded" value={country.countryCreationDate ?? "N/A"} />
             <StatRow label="UN member" value={formatYesNo(country.unMember)} />

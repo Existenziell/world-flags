@@ -28,7 +28,7 @@ export const MAP_MAX_ZOOM = 24;
 
 export const DEFAULT_MAP_SETTINGS: MapSettings = {
   projection: "globe",
-  mapStyle: "dark",
+  mapStyle: "satellite",
   theme: "dark",
   centerLng: 0,
   centerLat: 20,
